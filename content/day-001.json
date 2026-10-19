@@ -1,0 +1,48 @@
+{
+ "id": "day-001",
+ "track": "today",
+ "title": "Vectors: what are they?",
+ "subtitle": "Study plan · Day 1",
+ "source": null,
+ "sections": [
+  {
+   "title": "An arrow and a list",
+   "visual": "vectors",
+   "beats": [
+    "A vector is an arrow with a length and a direction.",
+    "It's also just a list of numbers. [3, 2] means 3 right, 2 up.",
+    "Physics sees arrows, computer science sees lists, math says both are the same thing."
+   ],
+   "example": "Your portfolio is a vector: [BTC units, ETH units, SOL units].",
+   "sayback": "Explain a vector two ways.",
+   "quiz": [
+    {
+     "q": "What does [−1, 4] mean as an arrow?",
+     "a": "1 left, 4 up."
+    }
+   ]
+  },
+  {
+   "title": "Adding & scaling",
+   "visual": "vectors",
+   "beats": [
+    "Add vectors tip to tail: [1,2] + [3,1] = [4,3].",
+    "Scaling multiplies every number: 2×[1,2] = [2,4]. Same direction, twice as long.",
+    "A negative scale flips the direction."
+   ],
+   "example": "Two trades' position changes add up into your net position change.",
+   "sayback": "Show adding two arrows on paper.",
+   "quiz": [
+    {
+     "q": "3×[2,−1]?",
+     "a": "[6, −3]"
+    },
+    {
+     "q": "[1,1]+[2,−3]?",
+     "a": "[3, −2]"
+    }
+   ],
+   "tieback": "Liquid Bot: exposure across assets is a vector. A cap on open positions is a limit on it."
+  }
+ ]
+}

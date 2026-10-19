@@ -1,0 +1,48 @@
+{
+ "id": "day-007",
+ "track": "today",
+ "title": "Sunday review + one Liquid Bot idea",
+ "subtitle": "Study plan · Day 7",
+ "source": null,
+ "sections": [
+  {
+   "title": "Review the week",
+   "visual": "review",
+   "beats": [
+    "Vectors = arrows = lists. Add tip to tail, scale to stretch.",
+    "Span and basis: what a set of vectors can reach.",
+    "Matrices move space. Multiplying = doing moves in order.",
+    "Probability: count outcomes, use the complement, don't double count."
+   ],
+   "example": "Redo two counting problems by hand without notes.",
+   "sayback": "Teach the whole week in 60 seconds.",
+   "quiz": [
+    {
+     "q": "What does a matrix's first column tell you?",
+     "a": "Where î lands."
+    },
+    {
+     "q": "Fastest route to P(at least one)?",
+     "a": "1 − P(none)"
+    }
+   ]
+  },
+  {
+   "title": "Build one idea",
+   "visual": "flow",
+   "beats": [
+    "Pick one idea: your open positions as a vector, or counting how many setups you tested.",
+    "Write it in the tracker's 'Liquid Bot idea?' column.",
+    "Ideas only for now. No code changes yet. Write it down first."
+   ],
+   "example": "Idea: log how many setups each scan considered, to estimate luck risk.",
+   "sayback": "Explain your idea in two sentences.",
+   "quiz": [
+    {
+     "q": "Why count setups tested?",
+     "a": "More tests = more lucky false winners."
+    }
+   ]
+  }
+ ]
+}

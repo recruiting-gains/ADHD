@@ -1,0 +1,44 @@
+{
+ "id": "day-006",
+ "track": "today",
+ "title": "Probability rules & the birthday problem",
+ "subtitle": "Study plan · Day 6",
+ "source": null,
+ "sections": [
+  {
+   "title": "The rules",
+   "visual": "dice",
+   "beats": [
+    "Probabilities run from 0 to 1. Something certain is 1.",
+    "P(not A) = 1 − P(A). Often the easy way in.",
+    "Inclusion-exclusion: P(A or B) = P(A) + P(B) − P(A and B), so overlap isn't counted twice."
+   ],
+   "example": "P(draw heart or king) = 13/52 + 4/52 − 1/52 = 16/52.",
+   "sayback": "Why subtract the overlap?",
+   "quiz": [
+    {
+     "q": "P(A)=0.5, P(B)=0.4, P(both)=0.2. P(A or B)?",
+     "a": "0.7"
+    }
+   ]
+  },
+  {
+   "title": "The birthday problem",
+   "visual": "birthday",
+   "beats": [
+    "How many people before two likely share a birthday? Only 23 for a 50% chance.",
+    "Trick: find P(nobody shares), then subtract from 1.",
+    "It's small because there are so many pairs: 23 people make 253 pairs."
+   ],
+   "example": "Test 50 random strategies and a couple will 'match' the market by pure luck.",
+   "sayback": "Explain why 23 is enough.",
+   "quiz": [
+    {
+     "q": "Pairs among 23 people?",
+     "a": "253"
+    }
+   ],
+   "tieback": "Liquid Bot: coincidences are common. Need a real sample of trades before trusting a pattern."
+  }
+ ]
+}

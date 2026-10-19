@@ -1,0 +1,5202 @@
+[
+ {
+  "day": 1,
+  "date": "2026-10-19",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.1: Vectors, what even are they?",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-001",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 2,
+  "date": "2026-10-20",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.2: Linear combinations, span, and basis",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-002",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 3,
+  "date": "2026-10-21",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.3: Linear transformations and matrices",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-003",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 4,
+  "date": "2026-10-22",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.4: Matrix multiplication as composition",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-004",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 5,
+  "date": "2026-10-23",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 1: sample spaces, naive probability, counting",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-005",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 6,
+  "date": "2026-10-24",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 2-3: axioms, birthday problem, inclusion-exclusion",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-006",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 7,
+  "date": "2026-10-25",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Redo two Stat 110 problems from this week by hand. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-007",
+  "ready": true,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 8,
+  "date": "2026-10-26",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.5-6: 3D transformations and the determinant",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-008",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 9,
+  "date": "2026-10-27",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 4: independence, conditional probability, Bayes' rule",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-009",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 10,
+  "date": "2026-10-28",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 5-6: total probability, Monty Hall, Simpson's paradox",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-010",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 11,
+  "date": "2026-10-29",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.7: Inverse matrices, column space, null space",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-011",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 12,
+  "date": "2026-10-30",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.8-9: Nonsquare matrices, dot products and duality",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-012",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 13,
+  "date": "2026-10-31",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Khan Academy: derivatives and the chain rule (refresher)",
+  "link": "https://www.khanacademy.org/math/ap-calculus-ab",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-013",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 14,
+  "date": "2026-11-01",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute the ETH/BTC/SOL covariance and correlation matrices in Python. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-014",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 15,
+  "date": "2026-11-02",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 7-8: random variables, Bernoulli, Binomial, CDFs and PMFs",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-015",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 16,
+  "date": "2026-11-03",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 9-10: expectation, indicator variables, linearity",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-016",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 17,
+  "date": "2026-11-04",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "The Matrix Calculus You Need For Deep Learning (Parr & Howard, 2018)",
+  "link": "https://arxiv.org/abs/1802.01528",
+  "arxiv_id": "1802.01528",
+  "arxiv_title": "The Matrix Calculus You Need For Deep Learning",
+  "lesson": "day-017",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 18,
+  "date": "2026-11-05",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.13: Change of basis",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-018",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 19,
+  "date": "2026-11-06",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.14-15: Eigenvectors and eigenvalues (+ quick trick)",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-019",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 20,
+  "date": "2026-11-07",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 11: the Poisson distribution",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-020",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 21,
+  "date": "2026-11-08",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Explain eigenvectors to an imaginary friend in 5 sentences. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-021",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 22,
+  "date": "2026-11-09",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 12: continuous distributions, PDFs, variance, Uniform",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-022",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 23,
+  "date": "2026-11-10",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 13-14: the Normal distribution, standardization, LOTUS",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-023",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 24,
+  "date": "2026-11-11",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "A Tutorial on Principal Component Analysis (Shlens, 2014)",
+  "link": "https://arxiv.org/abs/1404.1100",
+  "arxiv_id": "1404.1100",
+  "arxiv_title": "A Tutorial on Principal Component Analysis",
+  "lesson": "day-024",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 25,
+  "date": "2026-11-12",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Khan Academy: partial derivatives and the gradient",
+  "link": "https://www.khanacademy.org/math/multivariable-calculus",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-025",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 26,
+  "date": "2026-11-13",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 16: the Exponential distribution and memorylessness",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-026",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 27,
+  "date": "2026-11-14",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 17-18: moment generating functions, joint distributions",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-027",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 28,
+  "date": "2026-11-15",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Simulate 1,000 coin-flip 'trades' and watch the law of large numbers. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-028",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 29,
+  "date": "2026-11-16",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 19-20: joint, conditional and marginal distributions; Multinomial",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-029",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 30,
+  "date": "2026-11-17",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 21: covariance and correlation",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-030",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 31,
+  "date": "2026-11-18",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "3Blue1Brown LA Ch.16: Abstract vector spaces (optional: MIT 18.06 SVD lecture)",
+  "link": "https://www.3blue1brown.com/topics/linear-algebra",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-031",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 32,
+  "date": "2026-11-19",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 22: transformations, LogNormal, convolutions",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-032",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 33,
+  "date": "2026-11-20",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Automatic differentiation in machine learning: a survey (Baydin et al., 2015)",
+  "link": "https://arxiv.org/abs/1502.05767",
+  "arxiv_id": "1502.05767",
+  "arxiv_title": "Automatic differentiation in machine learning: a survey",
+  "lesson": "day-033",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 34,
+  "date": "2026-11-21",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 23-24: Beta and Gamma distributions, Poisson processes",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-034",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 35,
+  "date": "2026-11-22",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Fit a Normal and a Student-t to ETH returns; compare the tails. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-035",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 36,
+  "date": "2026-11-23",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 25-27: conditional expectation, Adam's and Eve's laws",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-036",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 37,
+  "date": "2026-11-24",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 28: inequalities (Cauchy-Schwarz, Jensen, Markov, Chebyshev)",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-037",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 38,
+  "date": "2026-11-25",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 29: law of large numbers and central limit theorem",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-038",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 39,
+  "date": "2026-11-26",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lecture 30: Chi-square, Student-t, multivariate Normal",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-039",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 40,
+  "date": "2026-11-27",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Stat 110 Lectures 31-33: Markov chains, stationary distributions",
+  "link": "https://stat110.hsites.harvard.edu/youtube",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-040",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 41,
+  "date": "2026-11-28",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "A Tutorial on Bayesian Optimization (Frazier, 2018)",
+  "link": "https://arxiv.org/abs/1807.02811",
+  "arxiv_id": "1807.02811",
+  "arxiv_title": "A Tutorial on Bayesian Optimization",
+  "lesson": "day-041",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 42,
+  "date": "2026-11-29",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Draw a 3-state Markov chain of market regimes and estimate its transition matrix. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-042",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 43,
+  "date": "2026-11-30",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Khan Academy: confidence intervals, hypothesis tests, p-values",
+  "link": "https://www.khanacademy.org/math/statistics-probability",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-043",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 44,
+  "date": "2026-12-01",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "Khan Academy: least-squares regression (optional: MIT 18.06 projections lecture)",
+  "link": "https://www.khanacademy.org/math/statistics-probability",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-044",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 45,
+  "date": "2026-12-02",
+  "block": "1. Foundations: probability, statistics, linear algebra",
+  "item": "A Conceptual Introduction to Hamiltonian Monte Carlo (Betancourt, 2017)",
+  "link": "https://arxiv.org/abs/1701.02434",
+  "arxiv_id": "1701.02434",
+  "arxiv_title": "A Conceptual Introduction to Hamiltonian Monte Carlo",
+  "lesson": "day-045",
+  "ready": false,
+  "extras": [
+   "f-ev-variance",
+   "lb-expectancy"
+  ]
+ },
+ {
+  "day": 46,
+  "date": "2026-12-03",
+  "block": "2. Neural networks and machine learning",
+  "item": "3Blue1Brown NN Ch.1: But what is a neural network?",
+  "link": "https://www.3blue1brown.com/topics/neural-networks",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-046",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 47,
+  "date": "2026-12-04",
+  "block": "2. Neural networks and machine learning",
+  "item": "3Blue1Brown NN Ch.2-4: gradient descent, backpropagation, backprop calculus",
+  "link": "https://www.3blue1brown.com/topics/neural-networks",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-047",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 48,
+  "date": "2026-12-05",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 1: building micrograd (backprop from scratch)",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-048",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 49,
+  "date": "2026-12-06",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Rebuild micrograd from memory (even partially). Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-049",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 50,
+  "date": "2026-12-07",
+  "block": "2. Neural networks and machine learning",
+  "item": "An overview of gradient descent optimization algorithms (Ruder, 2016)",
+  "link": "https://arxiv.org/abs/1609.04747",
+  "arxiv_id": "1609.04747",
+  "arxiv_title": "An overview of gradient descent optimization algorithms",
+  "lesson": "day-050",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 51,
+  "date": "2026-12-08",
+  "block": "2. Neural networks and machine learning",
+  "item": "Adam: A Method for Stochastic Optimization (Kingma & Ba, 2014)",
+  "link": "https://arxiv.org/abs/1412.6980",
+  "arxiv_id": "1412.6980",
+  "arxiv_title": "Adam: A Method for Stochastic Optimization",
+  "lesson": "day-051",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 52,
+  "date": "2026-12-09",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 2: makemore, bigram language model",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-052",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 53,
+  "date": "2026-12-10",
+  "block": "2. Neural networks and machine learning",
+  "item": "Efficient Estimation of Word Representations in Vector Space (Mikolov et al., 2013)",
+  "link": "https://arxiv.org/abs/1301.3781",
+  "arxiv_id": "1301.3781",
+  "arxiv_title": "Efficient Estimation of Word Representations in Vector Space",
+  "lesson": "day-053",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 54,
+  "date": "2026-12-11",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 3: makemore Part 2, MLP",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-054",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 55,
+  "date": "2026-12-12",
+  "block": "2. Neural networks and machine learning",
+  "item": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (He et al., 2015)",
+  "link": "https://arxiv.org/abs/1502.01852",
+  "arxiv_id": "1502.01852",
+  "arxiv_title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+  "lesson": "day-055",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 56,
+  "date": "2026-12-13",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Train an MLP on any toy dataset and plot the loss curve. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-056",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 57,
+  "date": "2026-12-14",
+  "block": "2. Neural networks and machine learning",
+  "item": "Improving neural networks by preventing co-adaptation of feature detectors (Hinton et al., 2012)",
+  "link": "https://arxiv.org/abs/1207.0580",
+  "arxiv_id": "1207.0580",
+  "arxiv_title": "Improving neural networks by preventing co-adaptation of feature detectors",
+  "lesson": "day-057",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 58,
+  "date": "2026-12-15",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 4: makemore Part 3, activations, gradients, BatchNorm",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-058",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 59,
+  "date": "2026-12-16",
+  "block": "2. Neural networks and machine learning",
+  "item": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Ioffe & Szegedy, 2015)",
+  "link": "https://arxiv.org/abs/1502.03167",
+  "arxiv_id": "1502.03167",
+  "arxiv_title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+  "lesson": "day-059",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 60,
+  "date": "2026-12-17",
+  "block": "2. Neural networks and machine learning",
+  "item": "Layer Normalization (Ba et al., 2016)",
+  "link": "https://arxiv.org/abs/1607.06450",
+  "arxiv_id": "1607.06450",
+  "arxiv_title": "Layer Normalization",
+  "lesson": "day-060",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 61,
+  "date": "2026-12-18",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 5: becoming a backprop ninja",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-061",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 62,
+  "date": "2026-12-19",
+  "block": "2. Neural networks and machine learning",
+  "item": "Deep Residual Learning for Image Recognition (He et al., 2015)",
+  "link": "https://arxiv.org/abs/1512.03385",
+  "arxiv_id": "1512.03385",
+  "arxiv_title": "Deep Residual Learning for Image Recognition",
+  "lesson": "day-062",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 63,
+  "date": "2026-12-20",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Write the Adam update rule in words, then in 10 lines of NumPy. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-063",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 64,
+  "date": "2026-12-21",
+  "block": "2. Neural networks and machine learning",
+  "item": "Practical recommendations for gradient-based training of deep architectures (Bengio, 2012)",
+  "link": "https://arxiv.org/abs/1206.5533",
+  "arxiv_id": "1206.5533",
+  "arxiv_title": "Practical recommendations for gradient-based training of deep architectures",
+  "lesson": "day-064",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 65,
+  "date": "2026-12-22",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 6: building a WaveNet",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-065",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 66,
+  "date": "2026-12-23",
+  "block": "2. Neural networks and machine learning",
+  "item": "WaveNet: A Generative Model for Raw Audio (Oord et al., 2016)",
+  "link": "https://arxiv.org/abs/1609.03499",
+  "arxiv_id": "1609.03499",
+  "arxiv_title": "WaveNet: A Generative Model for Raw Audio",
+  "lesson": "day-066",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 67,
+  "date": "2026-12-24",
+  "block": "2. Neural networks and machine learning",
+  "item": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling (Bai et al., 2018)",
+  "link": "https://arxiv.org/abs/1803.01271",
+  "arxiv_id": "1803.01271",
+  "arxiv_title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+  "lesson": "day-067",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 68,
+  "date": "2026-12-25",
+  "block": "2. Neural networks and machine learning",
+  "item": "A Critical Review of Recurrent Neural Networks for Sequence Learning (Lipton et al., 2015)",
+  "link": "https://arxiv.org/abs/1506.00019",
+  "arxiv_id": "1506.00019",
+  "arxiv_title": "A Critical Review of Recurrent Neural Networks for Sequence Learning",
+  "lesson": "day-068",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 69,
+  "date": "2026-12-26",
+  "block": "2. Neural networks and machine learning",
+  "item": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (Chung et al., 2014)",
+  "link": "https://arxiv.org/abs/1412.3555",
+  "arxiv_id": "1412.3555",
+  "arxiv_title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+  "lesson": "day-069",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 70,
+  "date": "2026-12-27",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Explain residual connections and LayerNorm to an imaginary engineer. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-070",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 71,
+  "date": "2026-12-28",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sequence to Sequence Learning with Neural Networks (Sutskever et al., 2014)",
+  "link": "https://arxiv.org/abs/1409.3215",
+  "arxiv_id": "1409.3215",
+  "arxiv_title": "Sequence to Sequence Learning with Neural Networks",
+  "lesson": "day-071",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 72,
+  "date": "2026-12-29",
+  "block": "2. Neural networks and machine learning",
+  "item": "Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau et al., 2014)",
+  "link": "https://arxiv.org/abs/1409.0473",
+  "arxiv_id": "1409.0473",
+  "arxiv_title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+  "lesson": "day-072",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 73,
+  "date": "2026-12-30",
+  "block": "2. Neural networks and machine learning",
+  "item": "3Blue1Brown: Transformers and attention chapters",
+  "link": "https://www.3blue1brown.com/topics/neural-networks",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-073",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 74,
+  "date": "2026-12-31",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 7: Let's build GPT from scratch",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-074",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 75,
+  "date": "2027-01-01",
+  "block": "2. Neural networks and machine learning",
+  "item": "Attention Is All You Need (Vaswani et al., 2017)",
+  "link": "https://arxiv.org/abs/1706.03762",
+  "arxiv_id": "1706.03762",
+  "arxiv_title": "Attention Is All You Need",
+  "lesson": "day-075",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 76,
+  "date": "2027-01-02",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy Lecture 8: building the GPT tokenizer",
+  "link": "https://karpathy.ai/zero-to-hero.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-076",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 77,
+  "date": "2027-01-03",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Train a tiny model to predict next-minute ETH return sign; record accuracy honestly. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-077",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 78,
+  "date": "2027-01-04",
+  "block": "2. Neural networks and machine learning",
+  "item": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018)",
+  "link": "https://arxiv.org/abs/1810.04805",
+  "arxiv_id": "1810.04805",
+  "arxiv_title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+  "lesson": "day-078",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 79,
+  "date": "2027-01-05",
+  "block": "2. Neural networks and machine learning",
+  "item": "Gaussian Error Linear Units (GELUs) (Hendrycks & Gimpel, 2016)",
+  "link": "https://arxiv.org/abs/1606.08415",
+  "arxiv_id": "1606.08415",
+  "arxiv_title": "Gaussian Error Linear Units (GELUs)",
+  "lesson": "day-079",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 80,
+  "date": "2027-01-06",
+  "block": "2. Neural networks and machine learning",
+  "item": "RoFormer: Enhanced Transformer with Rotary Position Embedding (Su et al., 2021)",
+  "link": "https://arxiv.org/abs/2104.09864",
+  "arxiv_id": "2104.09864",
+  "arxiv_title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+  "lesson": "day-080",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 81,
+  "date": "2027-01-07",
+  "block": "2. Neural networks and machine learning",
+  "item": "Decoupled Weight Decay Regularization (Loshchilov & Hutter, 2017)",
+  "link": "https://arxiv.org/abs/1711.05101",
+  "arxiv_id": "1711.05101",
+  "arxiv_title": "Decoupled Weight Decay Regularization",
+  "lesson": "day-081",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 82,
+  "date": "2027-01-08",
+  "block": "2. Neural networks and machine learning",
+  "item": "Karpathy bonus: Let's reproduce GPT-2 (124M) (video + build-nanogpt repo)",
+  "link": "https://github.com/karpathy/build-nanogpt",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-082",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 83,
+  "date": "2027-01-09",
+  "block": "2. Neural networks and machine learning",
+  "item": "Language Models are Few-Shot Learners (Brown et al., 2020)",
+  "link": "https://arxiv.org/abs/2005.14165",
+  "arxiv_id": "2005.14165",
+  "arxiv_title": "Language Models are Few-Shot Learners",
+  "lesson": "day-083",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 84,
+  "date": "2027-01-10",
+  "block": "2. Neural networks and machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Explain attention in 5 sentences with no equations. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-084",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 85,
+  "date": "2027-01-11",
+  "block": "2. Neural networks and machine learning",
+  "item": "Scaling Laws for Neural Language Models (Kaplan et al., 2020)",
+  "link": "https://arxiv.org/abs/2001.08361",
+  "arxiv_id": "2001.08361",
+  "arxiv_title": "Scaling Laws for Neural Language Models",
+  "lesson": "day-085",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 86,
+  "date": "2027-01-12",
+  "block": "2. Neural networks and machine learning",
+  "item": "Understanding deep learning requires rethinking generalization (Zhang et al., 2016)",
+  "link": "https://arxiv.org/abs/1611.03530",
+  "arxiv_id": "1611.03530",
+  "arxiv_title": "Understanding deep learning requires rethinking generalization",
+  "lesson": "day-086",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 87,
+  "date": "2027-01-13",
+  "block": "2. Neural networks and machine learning",
+  "item": "Deep Double Descent: Where Bigger Models and More Data Hurt (Nakkiran et al., 2019)",
+  "link": "https://arxiv.org/abs/1912.02292",
+  "arxiv_id": "1912.02292",
+  "arxiv_title": "Deep Double Descent: Where Bigger Models and More Data Hurt",
+  "lesson": "day-087",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 88,
+  "date": "2027-01-14",
+  "block": "2. Neural networks and machine learning",
+  "item": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (Gal & Ghahramani, 2015)",
+  "link": "https://arxiv.org/abs/1506.02142",
+  "arxiv_id": "1506.02142",
+  "arxiv_title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+  "lesson": "day-088",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 89,
+  "date": "2027-01-15",
+  "block": "2. Neural networks and machine learning",
+  "item": "Distilling the Knowledge in a Neural Network (Hinton et al., 2015)",
+  "link": "https://arxiv.org/abs/1503.02531",
+  "arxiv_id": "1503.02531",
+  "arxiv_title": "Distilling the Knowledge in a Neural Network",
+  "lesson": "day-089",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 90,
+  "date": "2027-01-16",
+  "block": "2. Neural networks and machine learning",
+  "item": "LoRA: Low-Rank Adaptation of Large Language Models (Hu et al., 2021)",
+  "link": "https://arxiv.org/abs/2106.09685",
+  "arxiv_id": "2106.09685",
+  "arxiv_title": "LoRA: Low-Rank Adaptation of Large Language Models",
+  "lesson": "day-090",
+  "ready": false,
+  "extras": [
+   "bis102-l13",
+   "lb-overfitting"
+  ]
+ },
+ {
+  "day": 91,
+  "date": "2027-01-17",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Plot spread and depth of ETH over one day from Hyperliquid data. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-091",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 92,
+  "date": "2027-01-18",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.1: Electronic markets and the limit order book",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-092",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 93,
+  "date": "2027-01-19",
+  "block": "3. Market microstructure and market making",
+  "item": "Limit Order Books (Gould et al., 2010)",
+  "link": "https://arxiv.org/abs/1012.0349",
+  "arxiv_id": "1012.0349",
+  "arxiv_title": "Limit Order Books",
+  "lesson": "day-093",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 94,
+  "date": "2027-01-20",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.2: A primer on the microstructure of financial markets",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-094",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 95,
+  "date": "2027-01-21",
+  "block": "3. Market microstructure and market making",
+  "item": "Glosten & Milgrom (1985), Bid, ask and transaction prices in a specialist market with heterogeneously informed traders  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1016/0304-405X(85)90044-3",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-095",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 96,
+  "date": "2027-01-22",
+  "block": "3. Market microstructure and market making",
+  "item": "Kyle (1985), Continuous auctions and insider trading  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.2307/1913210",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-096",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 97,
+  "date": "2027-01-23",
+  "block": "3. Market microstructure and market making",
+  "item": "Ho & Stoll (1981), Optimal dealer pricing under transactions and return uncertainty  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1016/0304-405X(81)90020-9",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-097",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 98,
+  "date": "2027-01-24",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute order-flow imbalance and test if it predicts the next mid-price move. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-098",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 99,
+  "date": "2027-01-25",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.3: Empirical and statistical evidence: prices and returns",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-099",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 100,
+  "date": "2027-01-26",
+  "block": "3. Market microstructure and market making",
+  "item": "Fluctuations and response in financial markets: the subtle nature of `random' price changes (Bouchaud et al., 2003)",
+  "link": "https://arxiv.org/abs/cond-mat/0307332",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-100",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 101,
+  "date": "2027-01-27",
+  "block": "3. Market microstructure and market making",
+  "item": "The long memory of the efficient market (Lillo & Farmer, 2003)",
+  "link": "https://arxiv.org/abs/cond-mat/0311053",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-101",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 102,
+  "date": "2027-01-28",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.4: Empirical and statistical evidence: activity and market quality",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-102",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 103,
+  "date": "2027-01-29",
+  "block": "3. Market microstructure and market making",
+  "item": "The Price Impact of Order Book Events (Cont et al., 2010)",
+  "link": "https://arxiv.org/abs/1011.6402",
+  "arxiv_id": "1011.6402",
+  "arxiv_title": "The Price Impact of Order Book Events",
+  "lesson": "day-103",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 104,
+  "date": "2027-01-30",
+  "block": "3. Market microstructure and market making",
+  "item": "Price Impact (Bouchaud, 2009)",
+  "link": "https://arxiv.org/abs/0903.2428",
+  "arxiv_id": "0903.2428",
+  "arxiv_title": "Price Impact",
+  "lesson": "day-104",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 105,
+  "date": "2027-01-31",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Code the Avellaneda-Stoikov reservation price and spread. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-105",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 106,
+  "date": "2027-02-01",
+  "block": "3. Market microstructure and market making",
+  "item": "How markets slowly digest changes in supply and demand (Bouchaud et al., 2008)",
+  "link": "https://arxiv.org/abs/0809.0822",
+  "arxiv_id": "0809.0822",
+  "arxiv_title": "How markets slowly digest changes in supply and demand",
+  "lesson": "day-106",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 107,
+  "date": "2027-02-02",
+  "block": "3. Market microstructure and market making",
+  "item": "Anomalous price impact and the critical nature of liquidity in financial markets (Toth et al., 2011)",
+  "link": "https://arxiv.org/abs/1105.1694",
+  "arxiv_id": "1105.1694",
+  "arxiv_title": "Anomalous price impact and the critical nature of liquidity in financial markets",
+  "lesson": "day-107",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 108,
+  "date": "2027-02-03",
+  "block": "3. Market microstructure and market making",
+  "item": "What really causes large price changes? (Farmer et al., 2003)",
+  "link": "https://arxiv.org/abs/cond-mat/0312703",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-108",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 109,
+  "date": "2027-02-04",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.5: Stochastic optimal control and stopping",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-109",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 110,
+  "date": "2027-02-05",
+  "block": "3. Market microstructure and market making",
+  "item": "Almgren & Chriss (2000/01), Optimal execution of portfolio transactions  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.21314/JOR.2001.041",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-110",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 111,
+  "date": "2027-02-06",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.6: Optimal execution with continuous trading I",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-111",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 112,
+  "date": "2027-02-07",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Simulate a market maker with and without inventory skew; compare PnL and risk. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-112",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 113,
+  "date": "2027-02-08",
+  "block": "3. Market microstructure and market making",
+  "item": "General Intensity Shapes in Optimal Liquidation (Guéant & Lehalle, 2012)",
+  "link": "https://arxiv.org/abs/1204.0148",
+  "arxiv_id": "1204.0148",
+  "arxiv_title": "General Intensity Shapes in Optimal Liquidation",
+  "lesson": "day-113",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 114,
+  "date": "2027-02-09",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.8: Optimal execution with limit and market orders",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-114",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 115,
+  "date": "2027-02-10",
+  "block": "3. Market microstructure and market making",
+  "item": "Avellaneda & Stoikov (2008), High-frequency trading in a limit order book  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://www.math.nyu.edu/~avellane/HighFrequencyTrading.pdf",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-115",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 116,
+  "date": "2027-02-11",
+  "block": "3. Market microstructure and market making",
+  "item": "Avellaneda & Stoikov, second pass: work through the reservation price and spread formulas  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://www.math.nyu.edu/~avellane/HighFrequencyTrading.pdf",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-116",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 117,
+  "date": "2027-02-12",
+  "block": "3. Market microstructure and market making",
+  "item": "Dealing with the Inventory Risk. A solution to the market making problem (Guéant et al., 2011)",
+  "link": "https://arxiv.org/abs/1105.3115",
+  "arxiv_id": "1105.3115",
+  "arxiv_title": "Dealing with the Inventory Risk. A solution to the market making problem",
+  "lesson": "day-117",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 118,
+  "date": "2027-02-13",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.10: Market making",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-118",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 119,
+  "date": "2027-02-14",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute the micro-price and compare it to the mid. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-119",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 120,
+  "date": "2027-02-15",
+  "block": "3. Market microstructure and market making",
+  "item": "Optimal market making (Guéant, 2016)",
+  "link": "https://arxiv.org/abs/1605.01862",
+  "arxiv_id": "1605.01862",
+  "arxiv_title": "Optimal market making",
+  "lesson": "day-120",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 121,
+  "date": "2027-02-16",
+  "block": "3. Market microstructure and market making",
+  "item": "Optimal High Frequency Trading with limit and market orders (Guilbaud & Pham, 2011)",
+  "link": "https://arxiv.org/abs/1106.5040",
+  "arxiv_id": "1106.5040",
+  "arxiv_title": "Optimal High Frequency Trading with limit and market orders",
+  "lesson": "day-121",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 122,
+  "date": "2027-02-17",
+  "block": "3. Market microstructure and market making",
+  "item": "Limit Order Strategic Placement with Adverse Selection Risk and the Role of Latency (Lehalle & Mounjid, 2016)",
+  "link": "https://arxiv.org/abs/1610.00261",
+  "arxiv_id": "1610.00261",
+  "arxiv_title": "Limit Order Strategic Placement with Adverse Selection Risk and the Role of Latency",
+  "lesson": "day-122",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 123,
+  "date": "2027-02-18",
+  "block": "3. Market microstructure and market making",
+  "item": "Stoikov (2018), The micro-price: a high-frequency estimator of future prices  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1080/14697688.2018.1489139",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-123",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 124,
+  "date": "2027-02-19",
+  "block": "3. Market microstructure and market making",
+  "item": "CJP Ch.12: Order imbalance",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-124",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 125,
+  "date": "2027-02-20",
+  "block": "3. Market microstructure and market making",
+  "item": "Cross-Impact of Order Flow Imbalance in Equity Markets (Cont et al., 2021)",
+  "link": "https://arxiv.org/abs/2112.13213",
+  "arxiv_id": "2112.13213",
+  "arxiv_title": "Cross-Impact of Order Flow Imbalance in Equity Markets",
+  "lesson": "day-125",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 126,
+  "date": "2027-02-21",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Explain adverse selection with a story about informed traders. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-126",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 127,
+  "date": "2027-02-22",
+  "block": "3. Market microstructure and market making",
+  "item": "Hawkes processes in finance (Bacry et al., 2015)",
+  "link": "https://arxiv.org/abs/1502.04592",
+  "arxiv_id": "1502.04592",
+  "arxiv_title": "Hawkes processes in finance",
+  "lesson": "day-127",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 128,
+  "date": "2027-02-23",
+  "block": "3. Market microstructure and market making",
+  "item": "Simulating and analyzing order book data: The queue-reactive model (Huang et al., 2013)",
+  "link": "https://arxiv.org/abs/1312.0563",
+  "arxiv_id": "1312.0563",
+  "arxiv_title": "Simulating and analyzing order book data: The queue-reactive model",
+  "lesson": "day-128",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 129,
+  "date": "2027-02-24",
+  "block": "3. Market microstructure and market making",
+  "item": "Easley, López de Prado & O'Hara (2012), Flow toxicity and liquidity in a high-frequency world  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1093/rfs/hhs053",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-129",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 130,
+  "date": "2027-02-25",
+  "block": "3. Market microstructure and market making",
+  "item": "Deep Learning for Limit Order Books (Sirignano, 2016)",
+  "link": "https://arxiv.org/abs/1601.01987",
+  "arxiv_id": "1601.01987",
+  "arxiv_title": "Deep Learning for Limit Order Books",
+  "lesson": "day-130",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 131,
+  "date": "2027-02-26",
+  "block": "3. Market microstructure and market making",
+  "item": "Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods (Ntakaris et al., 2017)",
+  "link": "https://arxiv.org/abs/1705.03233",
+  "arxiv_id": "1705.03233",
+  "arxiv_title": "Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods",
+  "lesson": "day-131",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 132,
+  "date": "2027-02-27",
+  "block": "3. Market microstructure and market making",
+  "item": "DeepLOB: Deep Convolutional Neural Networks for Limit Order Books (Zhang et al., 2018)",
+  "link": "https://arxiv.org/abs/1808.03668",
+  "arxiv_id": "1808.03668",
+  "arxiv_title": "DeepLOB: Deep Convolutional Neural Networks for Limit Order Books",
+  "lesson": "day-132",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 133,
+  "date": "2027-02-28",
+  "block": "3. Market microstructure and market making",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Block 3 checkpoint: re-read your weakest 3 notes. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-133",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 134,
+  "date": "2027-03-01",
+  "block": "3. Market microstructure and market making",
+  "item": "Universal features of price formation in financial markets: perspectives from Deep Learning (Sirignano & Cont, 2018)",
+  "link": "https://arxiv.org/abs/1803.06917",
+  "arxiv_id": "1803.06917",
+  "arxiv_title": "Universal features of price formation in financial markets: perspectives from Deep Learning",
+  "lesson": "day-134",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 135,
+  "date": "2027-03-02",
+  "block": "3. Market microstructure and market making",
+  "item": "Explorer day: pick one recent paper from arXiv q-fin.TR and run it through arXivisual",
+  "link": "https://arxiv.org/list/q-fin.TR/recent",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-135",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 136,
+  "date": "2027-03-03",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve I Ch.1: The binomial no-arbitrage pricing model",
+  "link": "https://link.springer.com/book/10.1007/978-0-387-22527-2",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-136",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 137,
+  "date": "2027-03-04",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve I Ch.2: Probability theory on coin toss space",
+  "link": "https://link.springer.com/book/10.1007/978-0-387-22527-2",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-137",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 138,
+  "date": "2027-03-05",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve I Ch.3: State prices",
+  "link": "https://link.springer.com/book/10.1007/978-0-387-22527-2",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-138",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 139,
+  "date": "2027-03-06",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Cox, Ross & Rubinstein (1979), Option pricing: a simplified approach  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1016/0304-405X(79)90015-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-139",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 140,
+  "date": "2027-03-07",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Price a call on a 3-step binomial tree by hand. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-140",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 141,
+  "date": "2027-03-08",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve I Ch.4: American derivative securities",
+  "link": "https://link.springer.com/book/10.1007/978-0-387-22527-2",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-141",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 142,
+  "date": "2027-03-09",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve I Ch.5: Random walk",
+  "link": "https://link.springer.com/book/10.1007/978-0-387-22527-2",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-142",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 143,
+  "date": "2027-03-10",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve I Ch.6: Interest-rate-dependent assets (skim)",
+  "link": "https://link.springer.com/book/10.1007/978-0-387-22527-2",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-143",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 144,
+  "date": "2027-03-11",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.1: General probability theory",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-144",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 145,
+  "date": "2027-03-12",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.2: Information and conditioning",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-145",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 146,
+  "date": "2027-03-13",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.3 (part 1): Brownian motion",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-146",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 147,
+  "date": "2027-03-14",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Simulate Brownian motion and check its quadratic variation. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-147",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 148,
+  "date": "2027-03-15",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.3 (part 2): quadratic variation and the reflection principle",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-148",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 149,
+  "date": "2027-03-16",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "CJP Appendix A: stochastic calculus for finance",
+  "link": "https://books.google.com/books/about/Algorithmic_and_High_Frequency_Trading.html?id=5dMmCgAAQBAJ",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-149",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 150,
+  "date": "2027-03-17",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.4 (part 1): the Itô integral",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-150",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 151,
+  "date": "2027-03-18",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.4 (part 2): the Itô-Doeblin formula",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-151",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 152,
+  "date": "2027-03-19",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.4 (part 3): the Black-Scholes-Merton equation",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-152",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 153,
+  "date": "2027-03-20",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Black & Scholes (1973), The pricing of options and corporate liabilities  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1086/260062",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-153",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 154,
+  "date": "2027-03-21",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Write Itô's lemma in words and apply it to log-price. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-154",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 155,
+  "date": "2027-03-22",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Merton (1973), Theory of rational option pricing  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.2307/3003143",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-155",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 156,
+  "date": "2027-03-23",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "The Greeks: delta, gamma, vega, theta (Shreve II Sec. 4.5 + Khan options intuition)",
+  "link": "https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-156",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 157,
+  "date": "2027-03-24",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.5 (part 1): risk-neutral measure and Girsanov's theorem",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-157",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 158,
+  "date": "2027-03-25",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.5 (part 2): martingale representation and the fundamental theorems",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-158",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 159,
+  "date": "2027-03-26",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.6: connections with partial differential equations (Feynman-Kac)",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-159",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 160,
+  "date": "2027-03-27",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Monte Carlo lab: simulate GBM paths in NumPy and price a European call",
+  "link": "https://numpy.org/doc/stable/reference/random/index.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-160",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 161,
+  "date": "2027-03-28",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Monte Carlo price a call and compare to Black-Scholes. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-161",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 162,
+  "date": "2027-03-29",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Multilevel Monte Carlo methods (Giles, 2013)",
+  "link": "https://arxiv.org/abs/1304.5472",
+  "arxiv_id": "1304.5472",
+  "arxiv_title": "Multilevel Monte Carlo methods",
+  "lesson": "day-162",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 163,
+  "date": "2027-03-30",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Longstaff & Schwartz (2001), Valuing American options by simulation: a simple least-squares approach  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1093/rfs/14.1.113",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-163",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 164,
+  "date": "2027-03-31",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.7: Exotic options (skim)",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-164",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 165,
+  "date": "2027-04-01",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.8: American derivative securities",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-165",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 166,
+  "date": "2027-04-02",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Heston (1993), A closed-form solution for options with stochastic volatility  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1093/rfs/6.2.327",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-166",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 167,
+  "date": "2027-04-03",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Arbitrage-free SVI volatility surfaces (Gatheral & Jacquier, 2012)",
+  "link": "https://arxiv.org/abs/1204.0646",
+  "arxiv_id": "1204.0646",
+  "arxiv_title": "Arbitrage-free SVI volatility surfaces",
+  "lesson": "day-167",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 168,
+  "date": "2027-04-04",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute delta and gamma by finite differences. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-168",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 169,
+  "date": "2027-04-05",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Volatility is rough (Gatheral et al., 2014)",
+  "link": "https://arxiv.org/abs/1410.3394",
+  "arxiv_id": "1410.3394",
+  "arxiv_title": "Volatility is rough",
+  "lesson": "day-169",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 170,
+  "date": "2027-04-06",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.9: Change of numéraire (skim)",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-170",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 171,
+  "date": "2027-04-07",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Shreve II Ch.11: Introduction to jump processes",
+  "link": "https://link.springer.com/book/10.1007/978-1-4757-4296-1",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-171",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 172,
+  "date": "2027-04-08",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Neural Ordinary Differential Equations (Chen et al., 2018)",
+  "link": "https://arxiv.org/abs/1806.07366",
+  "arxiv_id": "1806.07366",
+  "arxiv_title": "Neural Ordinary Differential Equations",
+  "lesson": "day-172",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 173,
+  "date": "2027-04-09",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Score-Based Generative Modeling through Stochastic Differential Equations (Song et al., 2020)",
+  "link": "https://arxiv.org/abs/2011.13456",
+  "arxiv_id": "2011.13456",
+  "arxiv_title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+  "lesson": "day-173",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 174,
+  "date": "2027-04-10",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Solving high-dimensional partial differential equations using deep learning (Han et al., 2017)",
+  "link": "https://arxiv.org/abs/1707.02568",
+  "arxiv_id": "1707.02568",
+  "arxiv_title": "Solving high-dimensional partial differential equations using deep learning",
+  "lesson": "day-174",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 175,
+  "date": "2027-04-11",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Add jumps to your ETH simulator and see what happens to liquidation risk. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-175",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 176,
+  "date": "2027-04-12",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Deep optimal stopping (Becker et al., 2018)",
+  "link": "https://arxiv.org/abs/1804.05394",
+  "arxiv_id": "1804.05394",
+  "arxiv_title": "Deep optimal stopping",
+  "lesson": "day-176",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 177,
+  "date": "2027-04-13",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Pricing options and computing implied volatilities using neural networks (Liu et al., 2019)",
+  "link": "https://arxiv.org/abs/1901.08943",
+  "arxiv_id": "1901.08943",
+  "arxiv_title": "Pricing options and computing implied volatilities using neural networks",
+  "lesson": "day-177",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 178,
+  "date": "2027-04-14",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Deep Learning Volatility (Horvath et al., 2019)",
+  "link": "https://arxiv.org/abs/1901.09647",
+  "arxiv_id": "1901.09647",
+  "arxiv_title": "Deep Learning Volatility",
+  "lesson": "day-178",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 179,
+  "date": "2027-04-15",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Differential Machine Learning (Huge & Savine, 2020)",
+  "link": "https://arxiv.org/abs/2005.02347",
+  "arxiv_id": "2005.02347",
+  "arxiv_title": "Differential Machine Learning",
+  "lesson": "day-179",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 180,
+  "date": "2027-04-16",
+  "block": "4. Stochastic calculus basics and options pricing",
+  "item": "Neural networks for option pricing and hedging: a literature review (Ruf & Wang, 2019)",
+  "link": "https://arxiv.org/abs/1911.05620",
+  "arxiv_id": "1911.05620",
+  "arxiv_title": "Neural networks for option pricing and hedging: a literature review",
+  "lesson": "day-180",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 181,
+  "date": "2027-04-17",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: Hyperliquid 101 for non-crypto audiences",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/about-hyperliquid/hyperliquid-101-for-non-crypto-audiences",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-181",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 182,
+  "date": "2027-04-18",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Pull ETH/BTC/SOL funding history and plot it. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-182",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 183,
+  "date": "2027-04-19",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Nakamoto (2008), Bitcoin: a peer-to-peer electronic cash system  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://bitcoin.org/bitcoin.pdf",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-183",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 184,
+  "date": "2027-04-20",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Buterin, Ethereum whitepaper  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://ethereum.org/en/whitepaper/",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-184",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 185,
+  "date": "2027-04-21",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "SoK: Decentralized Finance (DeFi) (Werner et al., 2021)",
+  "link": "https://arxiv.org/abs/2101.08778",
+  "arxiv_id": "2101.08778",
+  "arxiv_title": "SoK: Decentralized Finance (DeFi)",
+  "lesson": "day-185",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 186,
+  "date": "2027-04-22",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: order book",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/order-book",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-186",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 187,
+  "date": "2027-04-23",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: order types",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/order-types",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-187",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 188,
+  "date": "2027-04-24",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: margining",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/margining",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-188",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 189,
+  "date": "2027-04-25",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute the perp-spot basis and how it relates to funding. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-189",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 190,
+  "date": "2027-04-26",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: funding",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/funding",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-190",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 191,
+  "date": "2027-04-27",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "A primer on perpetuals (Angeris et al., 2022)",
+  "link": "https://arxiv.org/abs/2209.03307",
+  "arxiv_id": "2209.03307",
+  "arxiv_title": "A primer on perpetuals",
+  "lesson": "day-191",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 192,
+  "date": "2027-04-28",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Fundamentals of Perpetual Futures (He et al., 2022)",
+  "link": "https://arxiv.org/abs/2212.06888",
+  "arxiv_id": "2212.06888",
+  "arxiv_title": "Fundamentals of Perpetual Futures",
+  "lesson": "day-192",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 193,
+  "date": "2027-04-29",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Perpetual Futures Pricing (Ackerer et al., 2023)",
+  "link": "https://arxiv.org/abs/2310.11771",
+  "arxiv_id": "2310.11771",
+  "arxiv_title": "Perpetual Futures Pricing",
+  "lesson": "day-193",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 194,
+  "date": "2027-04-30",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Designing funding rates for perpetual futures in cryptocurrency markets (Kim & Park, 2025)",
+  "link": "https://arxiv.org/abs/2506.08573",
+  "arxiv_id": "2506.08573",
+  "arxiv_title": "Designing funding rates for perpetual futures in cryptocurrency markets",
+  "lesson": "day-194",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 195,
+  "date": "2027-05-01",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "BitMEX Funding Correlation with Bitcoin Exchange Rate (Nimmagadda & Ammanamanchi, 2019)",
+  "link": "https://arxiv.org/abs/1912.03270",
+  "arxiv_id": "1912.03270",
+  "arxiv_title": "BitMEX Funding Correlation with Bitcoin Exchange Rate",
+  "lesson": "day-195",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 196,
+  "date": "2027-05-02",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute liquidation price for a sample position at 3x, 5x, 10x. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-196",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 197,
+  "date": "2027-05-03",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: oracle",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/oracle",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-197",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 198,
+  "date": "2027-05-04",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: robust price indices",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/robust-price-indices",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-198",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 199,
+  "date": "2027-05-05",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: liquidations",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/liquidations",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-199",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 200,
+  "date": "2027-05-06",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Liquidations: DeFi on a Knife-edge (Perez et al., 2020)",
+  "link": "https://arxiv.org/abs/2009.13235",
+  "arxiv_id": "2009.13235",
+  "arxiv_title": "Liquidations: DeFi on a Knife-edge",
+  "lesson": "day-200",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 201,
+  "date": "2027-05-07",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities (Qin et al., 2021)",
+  "link": "https://arxiv.org/abs/2106.06389",
+  "arxiv_id": "2106.06389",
+  "arxiv_title": "An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities",
+  "lesson": "day-201",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 202,
+  "date": "2027-05-08",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: auto-deleveraging",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/auto-deleveraging",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-202",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 203,
+  "date": "2027-05-09",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Write how Hyperliquid's mark price is formed, from memory. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-203",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 204,
+  "date": "2027-05-10",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Autodeleveraging: Impossibilities and Optimization (Chitra, 2025)",
+  "link": "https://arxiv.org/abs/2512.01112",
+  "arxiv_id": "2512.01112",
+  "arxiv_title": "Autodeleveraging: Impossibilities and Optimization",
+  "lesson": "day-204",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 205,
+  "date": "2027-05-11",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Risk-Based Auto-Deleveraging (Campbell et al., 2026)",
+  "link": "https://arxiv.org/abs/2603.15963",
+  "arxiv_id": "2603.15963",
+  "arxiv_title": "Risk-Based Auto-Deleveraging",
+  "lesson": "day-205",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 206,
+  "date": "2027-05-12",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Where does the criticality live? Early-warning signals are event-heterogeneous across seven crypto-perpetual liquidation cascades (Seuma, 2026)",
+  "link": "https://arxiv.org/abs/2607.27070",
+  "arxiv_id": "2607.27070",
+  "arxiv_title": "Where does the criticality live? Early-warning signals are event-heterogeneous across seven crypto-perpetual liquidation cascades",
+  "lesson": "day-206",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 207,
+  "date": "2027-05-13",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: fees",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/trading/fees",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-207",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 208,
+  "date": "2027-05-14",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: vaults",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-208",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 209,
+  "date": "2027-05-15",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Funding-Aware Optimal Market Making for Perpetual DEXs (Le, 2026)",
+  "link": "https://arxiv.org/abs/2605.06405",
+  "arxiv_id": "2605.06405",
+  "arxiv_title": "Funding-Aware Optimal Market Making for Perpetual DEXs",
+  "lesson": "day-209",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 210,
+  "date": "2027-05-16",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Add funding skew to the quoter in your simulator. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-210",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 211,
+  "date": "2027-05-17",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Second pass: Funding-Aware Optimal Market Making for Perpetual DEXs (map it to Liquid Bot)",
+  "link": "https://arxiv.org/abs/2605.06405",
+  "arxiv_id": "2605.06405",
+  "arxiv_title": "Funding-Aware Optimal Market Making for Perpetual DEXs",
+  "lesson": "day-211",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 212,
+  "date": "2027-05-18",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Trading in the Sunshine or in the Shade: Market Impact and Adverse Selection on Hyperliquid (Barone & Lillo, 2026)",
+  "link": "https://arxiv.org/abs/2606.15715",
+  "arxiv_id": "2606.15715",
+  "arxiv_title": "Trading in the Sunshine or in the Shade: Market Impact and Adverse Selection on Hyperliquid",
+  "lesson": "day-212",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 213,
+  "date": "2027-05-19",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Exploring the Impact: How Decentralized Exchange Designs Shape Traders' Behavior on Perpetual Future Contracts (Chen et al., 2024)",
+  "link": "https://arxiv.org/abs/2402.03953",
+  "arxiv_id": "2402.03953",
+  "arxiv_title": "Exploring the Impact: How Decentralized Exchange Designs Shape Traders' Behavior on Perpetual Future Contracts",
+  "lesson": "day-213",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 214,
+  "date": "2027-05-20",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Reconciling Open Interest with Traded Volume in Perpetual Swaps (Giagkiozis & Said, 2023)",
+  "link": "https://arxiv.org/abs/2310.14973",
+  "arxiv_id": "2310.14973",
+  "arxiv_title": "Reconciling Open Interest with Traded Volume in Perpetual Swaps",
+  "lesson": "day-214",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 215,
+  "date": "2027-05-21",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Agent-Based Simulation of a Perpetual Futures Market (Rao, 2025)",
+  "link": "https://arxiv.org/abs/2501.09404",
+  "arxiv_id": "2501.09404",
+  "arxiv_title": "Agent-Based Simulation of a Perpetual Futures Market",
+  "lesson": "day-215",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 216,
+  "date": "2027-05-22",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading (Krestenko et al., 2026)",
+  "link": "https://arxiv.org/abs/2605.05089",
+  "arxiv_id": "2605.05089",
+  "arxiv_title": "Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading",
+  "lesson": "day-216",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 217,
+  "date": "2027-05-23",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Estimate your maker rebate / taker fee break-even spread. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-217",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 218,
+  "date": "2027-05-24",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Optimal Liquidation of Perpetual Contracts (Donnelly et al., 2026)",
+  "link": "https://arxiv.org/abs/2601.10812",
+  "arxiv_id": "2601.10812",
+  "arxiv_title": "Optimal Liquidation of Perpetual Contracts",
+  "lesson": "day-218",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 219,
+  "date": "2027-05-25",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Slippage-at-Risk (SaR): A Forward-Looking Liquidity Risk Framework for Perpetual Futures Exchanges (Sepper, 2026)",
+  "link": "https://arxiv.org/abs/2603.09164",
+  "arxiv_id": "2603.09164",
+  "arxiv_title": "Slippage-at-Risk (SaR): A Forward-Looking Liquidity Risk Framework for Perpetual Futures Exchanges",
+  "lesson": "day-219",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 220,
+  "date": "2027-05-26",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges (Daian et al., 2019)",
+  "link": "https://arxiv.org/abs/1904.05234",
+  "arxiv_id": "1904.05234",
+  "arxiv_title": "Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges",
+  "lesson": "day-220",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 221,
+  "date": "2027-05-27",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Automated Market Making and Loss-Versus-Rebalancing (Milionis et al., 2022)",
+  "link": "https://arxiv.org/abs/2208.06046",
+  "arxiv_id": "2208.06046",
+  "arxiv_title": "Automated Market Making and Loss-Versus-Rebalancing",
+  "lesson": "day-221",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 222,
+  "date": "2027-05-28",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Periodicity in Cryptocurrency Volatility and Liquidity (Hansen et al., 2021)",
+  "link": "https://arxiv.org/abs/2109.12142",
+  "arxiv_id": "2109.12142",
+  "arxiv_title": "Periodicity in Cryptocurrency Volatility and Liquidity",
+  "lesson": "day-222",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 223,
+  "date": "2027-05-29",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Crypto Wash Trading (Cong et al., 2021)",
+  "link": "https://arxiv.org/abs/2108.10984",
+  "arxiv_id": "2108.10984",
+  "arxiv_title": "Crypto Wash Trading",
+  "lesson": "day-223",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 224,
+  "date": "2027-05-30",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Block 5 checkpoint: re-read your weakest 3 notes. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-224",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 225,
+  "date": "2027-05-31",
+  "block": "5. Perpetual futures and crypto markets",
+  "item": "Hyperliquid docs: API (and the historical-data page)",
+  "link": "https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-225",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 226,
+  "date": "2027-06-01",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.1: Introduction",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-226",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 227,
+  "date": "2027-06-02",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.2: Multi-armed bandits",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-227",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 228,
+  "date": "2027-06-03",
+  "block": "6. Reinforcement learning",
+  "item": "Spinning Up Part 1: Key concepts in RL",
+  "link": "https://spinningup.openai.com/en/latest/",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-228",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 229,
+  "date": "2027-06-04",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.3: Finite Markov decision processes",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-229",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 230,
+  "date": "2027-06-05",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.4: Dynamic programming",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-230",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 231,
+  "date": "2027-06-06",
+  "block": "6. Reinforcement learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Solve a 3-armed bandit with epsilon-greedy and UCB. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-231",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 232,
+  "date": "2027-06-07",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.5: Monte Carlo methods",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-232",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 233,
+  "date": "2027-06-08",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.6: Temporal-difference learning",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-233",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 234,
+  "date": "2027-06-09",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.7: n-step bootstrapping",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-234",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 235,
+  "date": "2027-06-10",
+  "block": "6. Reinforcement learning",
+  "item": "Spinning Up Part 2: Kinds of RL algorithms",
+  "link": "https://spinningup.openai.com/en/latest/",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-235",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 236,
+  "date": "2027-06-11",
+  "block": "6. Reinforcement learning",
+  "item": "Playing Atari with Deep Reinforcement Learning (Mnih et al., 2013)",
+  "link": "https://arxiv.org/abs/1312.5602",
+  "arxiv_id": "1312.5602",
+  "arxiv_title": "Playing Atari with Deep Reinforcement Learning",
+  "lesson": "day-236",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 237,
+  "date": "2027-06-12",
+  "block": "6. Reinforcement learning",
+  "item": "Deep Reinforcement Learning with Double Q-learning (Hasselt et al., 2015)",
+  "link": "https://arxiv.org/abs/1509.06461",
+  "arxiv_id": "1509.06461",
+  "arxiv_title": "Deep Reinforcement Learning with Double Q-learning",
+  "lesson": "day-237",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 238,
+  "date": "2027-06-13",
+  "block": "6. Reinforcement learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Implement tabular Q-learning on a toy grid. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-238",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 239,
+  "date": "2027-06-14",
+  "block": "6. Reinforcement learning",
+  "item": "Dueling Network Architectures for Deep Reinforcement Learning (Wang et al., 2015)",
+  "link": "https://arxiv.org/abs/1511.06581",
+  "arxiv_id": "1511.06581",
+  "arxiv_title": "Dueling Network Architectures for Deep Reinforcement Learning",
+  "lesson": "day-239",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 240,
+  "date": "2027-06-15",
+  "block": "6. Reinforcement learning",
+  "item": "Prioritized Experience Replay (Schaul et al., 2015)",
+  "link": "https://arxiv.org/abs/1511.05952",
+  "arxiv_id": "1511.05952",
+  "arxiv_title": "Prioritized Experience Replay",
+  "lesson": "day-240",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 241,
+  "date": "2027-06-16",
+  "block": "6. Reinforcement learning",
+  "item": "A Distributional Perspective on Reinforcement Learning (Bellemare et al., 2017)",
+  "link": "https://arxiv.org/abs/1707.06887",
+  "arxiv_id": "1707.06887",
+  "arxiv_title": "A Distributional Perspective on Reinforcement Learning",
+  "lesson": "day-241",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 242,
+  "date": "2027-06-17",
+  "block": "6. Reinforcement learning",
+  "item": "Rainbow: Combining Improvements in Deep Reinforcement Learning (Hessel et al., 2017)",
+  "link": "https://arxiv.org/abs/1710.02298",
+  "arxiv_id": "1710.02298",
+  "arxiv_title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+  "lesson": "day-242",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 243,
+  "date": "2027-06-18",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.9-10: on-policy prediction and control with approximation",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-243",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 244,
+  "date": "2027-06-19",
+  "block": "6. Reinforcement learning",
+  "item": "Sutton & Barto Ch.13: Policy gradient methods",
+  "link": "http://incompleteideas.net/book/the-book-2nd.html",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-244",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 245,
+  "date": "2027-06-20",
+  "block": "6. Reinforcement learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Write the Bellman equation in words. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-245",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 246,
+  "date": "2027-06-21",
+  "block": "6. Reinforcement learning",
+  "item": "Spinning Up Part 3: Intro to policy optimization",
+  "link": "https://spinningup.openai.com/en/latest/",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-246",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 247,
+  "date": "2027-06-22",
+  "block": "6. Reinforcement learning",
+  "item": "Trust Region Policy Optimization (Schulman et al., 2015)",
+  "link": "https://arxiv.org/abs/1502.05477",
+  "arxiv_id": "1502.05477",
+  "arxiv_title": "Trust Region Policy Optimization",
+  "lesson": "day-247",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 248,
+  "date": "2027-06-23",
+  "block": "6. Reinforcement learning",
+  "item": "High-Dimensional Continuous Control Using Generalized Advantage Estimation (Schulman et al., 2015)",
+  "link": "https://arxiv.org/abs/1506.02438",
+  "arxiv_id": "1506.02438",
+  "arxiv_title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+  "lesson": "day-248",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 249,
+  "date": "2027-06-24",
+  "block": "6. Reinforcement learning",
+  "item": "Proximal Policy Optimization Algorithms (Schulman et al., 2017)",
+  "link": "https://arxiv.org/abs/1707.06347",
+  "arxiv_id": "1707.06347",
+  "arxiv_title": "Proximal Policy Optimization Algorithms",
+  "lesson": "day-249",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 250,
+  "date": "2027-06-25",
+  "block": "6. Reinforcement learning",
+  "item": "Asynchronous Methods for Deep Reinforcement Learning (Mnih et al., 2016)",
+  "link": "https://arxiv.org/abs/1602.01783",
+  "arxiv_id": "1602.01783",
+  "arxiv_title": "Asynchronous Methods for Deep Reinforcement Learning",
+  "lesson": "day-250",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 251,
+  "date": "2027-06-26",
+  "block": "6. Reinforcement learning",
+  "item": "Continuous control with deep reinforcement learning (Lillicrap et al., 2015)",
+  "link": "https://arxiv.org/abs/1509.02971",
+  "arxiv_id": "1509.02971",
+  "arxiv_title": "Continuous control with deep reinforcement learning",
+  "lesson": "day-251",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 252,
+  "date": "2027-06-27",
+  "block": "6. Reinforcement learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Run Spinning Up's PPO on a simple Gym task. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-252",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 253,
+  "date": "2027-06-28",
+  "block": "6. Reinforcement learning",
+  "item": "Addressing Function Approximation Error in Actor-Critic Methods (Fujimoto et al., 2018)",
+  "link": "https://arxiv.org/abs/1802.09477",
+  "arxiv_id": "1802.09477",
+  "arxiv_title": "Addressing Function Approximation Error in Actor-Critic Methods",
+  "lesson": "day-253",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 254,
+  "date": "2027-06-29",
+  "block": "6. Reinforcement learning",
+  "item": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor (Haarnoja et al., 2018)",
+  "link": "https://arxiv.org/abs/1801.01290",
+  "arxiv_id": "1801.01290",
+  "arxiv_title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+  "lesson": "day-254",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 255,
+  "date": "2027-06-30",
+  "block": "6. Reinforcement learning",
+  "item": "Deep Reinforcement Learning that Matters (Henderson et al., 2017)",
+  "link": "https://arxiv.org/abs/1709.06560",
+  "arxiv_id": "1709.06560",
+  "arxiv_title": "Deep Reinforcement Learning that Matters",
+  "lesson": "day-255",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 256,
+  "date": "2027-07-01",
+  "block": "6. Reinforcement learning",
+  "item": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems (Levine et al., 2020)",
+  "link": "https://arxiv.org/abs/2005.01643",
+  "arxiv_id": "2005.01643",
+  "arxiv_title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+  "lesson": "day-256",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 257,
+  "date": "2027-07-02",
+  "block": "6. Reinforcement learning",
+  "item": "Conservative Q-Learning for Offline Reinforcement Learning (Kumar et al., 2020)",
+  "link": "https://arxiv.org/abs/2006.04779",
+  "arxiv_id": "2006.04779",
+  "arxiv_title": "Conservative Q-Learning for Offline Reinforcement Learning",
+  "lesson": "day-257",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 258,
+  "date": "2027-07-03",
+  "block": "6. Reinforcement learning",
+  "item": "Deep Hedging (Bühler et al., 2018)",
+  "link": "https://arxiv.org/abs/1802.03042",
+  "arxiv_id": "1802.03042",
+  "arxiv_title": "Deep Hedging",
+  "lesson": "day-258",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 259,
+  "date": "2027-07-04",
+  "block": "6. Reinforcement learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Wrap your market-making simulator as a Gym environment. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-259",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 260,
+  "date": "2027-07-05",
+  "block": "6. Reinforcement learning",
+  "item": "Deep kernel hedging (Dupret et al., 2026)",
+  "link": "https://arxiv.org/abs/2609.34474",
+  "arxiv_id": "2609.34474",
+  "arxiv_title": "Deep kernel hedging",
+  "lesson": "day-260",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 261,
+  "date": "2027-07-06",
+  "block": "6. Reinforcement learning",
+  "item": "Deep Hedging of Derivatives Using Reinforcement Learning (Cao et al., 2021)",
+  "link": "https://arxiv.org/abs/2103.16409",
+  "arxiv_id": "2103.16409",
+  "arxiv_title": "Deep Hedging of Derivatives Using Reinforcement Learning",
+  "lesson": "day-261",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 262,
+  "date": "2027-07-07",
+  "block": "6. Reinforcement learning",
+  "item": "QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds (Halperin, 2017)",
+  "link": "https://arxiv.org/abs/1712.04609",
+  "arxiv_id": "1712.04609",
+  "arxiv_title": "QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds",
+  "lesson": "day-262",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 263,
+  "date": "2027-07-08",
+  "block": "6. Reinforcement learning",
+  "item": "Market Making via Reinforcement Learning (Spooner et al., 2018)",
+  "link": "https://arxiv.org/abs/1804.04216",
+  "arxiv_id": "1804.04216",
+  "arxiv_title": "Market Making via Reinforcement Learning",
+  "lesson": "day-263",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 264,
+  "date": "2027-07-09",
+  "block": "6. Reinforcement learning",
+  "item": "Robust Market Making via Adversarial Reinforcement Learning (Spooner & Savani, 2020)",
+  "link": "https://arxiv.org/abs/2003.01820",
+  "arxiv_id": "2003.01820",
+  "arxiv_title": "Robust Market Making via Adversarial Reinforcement Learning",
+  "lesson": "day-264",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 265,
+  "date": "2027-07-10",
+  "block": "6. Reinforcement learning",
+  "item": "Deep Reinforcement Learning in Cryptocurrency Market Making (Sadighian, 2019)",
+  "link": "https://arxiv.org/abs/1911.08647",
+  "arxiv_id": "1911.08647",
+  "arxiv_title": "Deep Reinforcement Learning in Cryptocurrency Market Making",
+  "lesson": "day-265",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 266,
+  "date": "2027-07-11",
+  "block": "6. Reinforcement learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compare an RL quoter against Avellaneda-Stoikov over 5 random seeds. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-266",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 267,
+  "date": "2027-07-12",
+  "block": "6. Reinforcement learning",
+  "item": "Extending Deep Reinforcement Learning Frameworks in Cryptocurrency Market Making (Sadighian, 2020)",
+  "link": "https://arxiv.org/abs/2004.06985",
+  "arxiv_id": "2004.06985",
+  "arxiv_title": "Extending Deep Reinforcement Learning Frameworks in Cryptocurrency Market Making",
+  "lesson": "day-267",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 268,
+  "date": "2027-07-13",
+  "block": "6. Reinforcement learning",
+  "item": "Double Deep Q-Learning for Optimal Execution (Ning et al., 2018)",
+  "link": "https://arxiv.org/abs/1812.06600",
+  "arxiv_id": "1812.06600",
+  "arxiv_title": "Double Deep Q-Learning for Optimal Execution",
+  "lesson": "day-268",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 269,
+  "date": "2027-07-14",
+  "block": "6. Reinforcement learning",
+  "item": "ABIDES-Gym: Gym Environments for Multi-Agent Discrete Event Simulation and Application to Financial Markets (Amrouni et al., 2021)",
+  "link": "https://arxiv.org/abs/2110.14771",
+  "arxiv_id": "2110.14771",
+  "arxiv_title": "ABIDES-Gym: Gym Environments for Multi-Agent Discrete Event Simulation and Application to Financial Markets",
+  "lesson": "day-269",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 270,
+  "date": "2027-07-15",
+  "block": "6. Reinforcement learning",
+  "item": "Recent Advances in Reinforcement Learning in Finance (Hambly et al., 2021)",
+  "link": "https://arxiv.org/abs/2112.04553",
+  "arxiv_id": "2112.04553",
+  "arxiv_title": "Recent Advances in Reinforcement Learning in Finance",
+  "lesson": "day-270",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 271,
+  "date": "2027-07-16",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.1: Financial machine learning as a distinct subject",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-271",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 272,
+  "date": "2027-07-17",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.2: Financial data structures",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-272",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 273,
+  "date": "2027-07-18",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Build dollar bars for ETH. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-273",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 274,
+  "date": "2027-07-19",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.3 (part 1): labeling and the triple-barrier method",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-274",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 275,
+  "date": "2027-07-20",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.3 (part 2): meta-labeling",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-275",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 276,
+  "date": "2027-07-21",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.4: Sample weights",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-276",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 277,
+  "date": "2027-07-22",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.5: Fractionally differentiated features",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-277",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 278,
+  "date": "2027-07-23",
+  "block": "7. Financial machine learning",
+  "item": "XGBoost: A Scalable Tree Boosting System (Chen & Guestrin, 2016)",
+  "link": "https://arxiv.org/abs/1603.02754",
+  "arxiv_id": "1603.02754",
+  "arxiv_title": "XGBoost: A Scalable Tree Boosting System",
+  "lesson": "day-278",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 279,
+  "date": "2027-07-24",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.6: Ensemble methods",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-279",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 280,
+  "date": "2027-07-25",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Apply triple-barrier labels to your bar data. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-280",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 281,
+  "date": "2027-07-26",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.7: Cross-validation in finance",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-281",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 282,
+  "date": "2027-07-27",
+  "block": "7. Financial machine learning",
+  "item": "Evaluating time series forecasting models: An empirical study on performance estimation methods (Cerqueira et al., 2019)",
+  "link": "https://arxiv.org/abs/1905.11744",
+  "arxiv_id": "1905.11744",
+  "arxiv_title": "Evaluating time series forecasting models: An empirical study on performance estimation methods",
+  "lesson": "day-282",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 283,
+  "date": "2027-07-28",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.8: Feature importance",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-283",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 284,
+  "date": "2027-07-29",
+  "block": "7. Financial machine learning",
+  "item": "A Unified Approach to Interpreting Model Predictions (Lundberg & Lee, 2017)",
+  "link": "https://arxiv.org/abs/1705.07874",
+  "arxiv_id": "1705.07874",
+  "arxiv_title": "A Unified Approach to Interpreting Model Predictions",
+  "lesson": "day-284",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 285,
+  "date": "2027-07-30",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.9: Hyper-parameter tuning with cross-validation",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-285",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 286,
+  "date": "2027-07-31",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.10: Bet sizing",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-286",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 287,
+  "date": "2027-08-01",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Implement purged k-fold CV with an embargo. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-287",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 288,
+  "date": "2027-08-02",
+  "block": "7. Financial machine learning",
+  "item": "Kelly (1956), A new interpretation of information rate  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.1002/j.1538-7305.1956.tb03809.x",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-288",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 289,
+  "date": "2027-08-03",
+  "block": "7. Financial machine learning",
+  "item": "Risk-Constrained Kelly Gambling (Busseti et al., 2016)",
+  "link": "https://arxiv.org/abs/1603.06183",
+  "arxiv_id": "1603.06183",
+  "arxiv_title": "Risk-Constrained Kelly Gambling",
+  "lesson": "day-289",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 290,
+  "date": "2027-08-04",
+  "block": "7. Financial machine learning",
+  "item": "On Calibration of Modern Neural Networks (Guo et al., 2017)",
+  "link": "https://arxiv.org/abs/1706.04599",
+  "arxiv_id": "1706.04599",
+  "arxiv_title": "On Calibration of Modern Neural Networks",
+  "lesson": "day-290",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 291,
+  "date": "2027-08-05",
+  "block": "7. Financial machine learning",
+  "item": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification (Angelopoulos & Bates, 2021)",
+  "link": "https://arxiv.org/abs/2107.07511",
+  "arxiv_id": "2107.07511",
+  "arxiv_title": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification",
+  "lesson": "day-291",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 292,
+  "date": "2027-08-06",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.11: The dangers of backtesting",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-292",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 293,
+  "date": "2027-08-07",
+  "block": "7. Financial machine learning",
+  "item": "Bailey, Borwein, López de Prado & Zhu (2016), The probability of backtest overfitting  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.21314/JCF.2016.322",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-293",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 294,
+  "date": "2027-08-08",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Train a meta-labeling classifier on Liquid Bot's signal. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-294",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 295,
+  "date": "2027-08-09",
+  "block": "7. Financial machine learning",
+  "item": "Bailey & López de Prado (2014), The deflated Sharpe ratio  [Not on arXiv: read via the PDF or a study guide]",
+  "link": "https://doi.org/10.3905/jpm.2014.40.5.094",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-295",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 296,
+  "date": "2027-08-10",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.12: Backtesting through cross-validation",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-296",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 297,
+  "date": "2027-08-11",
+  "block": "7. Financial machine learning",
+  "item": "Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting (Gort et al., 2022)",
+  "link": "https://arxiv.org/abs/2209.05559",
+  "arxiv_id": "2209.05559",
+  "arxiv_title": "Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting",
+  "lesson": "day-297",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 298,
+  "date": "2027-08-12",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.13: Backtesting on synthetic data",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-298",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 299,
+  "date": "2027-08-13",
+  "block": "7. Financial machine learning",
+  "item": "Quant GANs: Deep Generation of Financial Time Series (Wiese et al., 2019)",
+  "link": "https://arxiv.org/abs/1907.06673",
+  "arxiv_id": "1907.06673",
+  "arxiv_title": "Quant GANs: Deep Generation of Financial Time Series",
+  "lesson": "day-299",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 300,
+  "date": "2027-08-14",
+  "block": "7. Financial machine learning",
+  "item": "A Data-driven Market Simulator for Small Data Environments (Bühler et al., 2020)",
+  "link": "https://arxiv.org/abs/2006.14498",
+  "arxiv_id": "2006.14498",
+  "arxiv_title": "A Data-driven Market Simulator for Small Data Environments",
+  "lesson": "day-300",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 301,
+  "date": "2027-08-15",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Turn predicted probabilities into bet sizes and backtest. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-301",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 302,
+  "date": "2027-08-16",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.14: Backtest statistics",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-302",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 303,
+  "date": "2027-08-17",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.15: Understanding strategy risk",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-303",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 304,
+  "date": "2027-08-18",
+  "block": "7. Financial machine learning",
+  "item": "On the coherence of Expected Shortfall (Acerbi & Tasche, 2001)",
+  "link": "https://arxiv.org/abs/cond-mat/0104295",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-304",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 305,
+  "date": "2027-08-19",
+  "block": "7. Financial machine learning",
+  "item": "Cleaning large correlation matrices: tools from random matrix theory (Bun et al., 2016)",
+  "link": "https://arxiv.org/abs/1610.08104",
+  "arxiv_id": "1610.08104",
+  "arxiv_title": "Cleaning large correlation matrices: tools from random matrix theory",
+  "lesson": "day-305",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 306,
+  "date": "2027-08-20",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.16: Machine learning asset allocation",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-306",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 307,
+  "date": "2027-08-21",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.17: Structural breaks",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-307",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 308,
+  "date": "2027-08-22",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Compute a deflated Sharpe ratio for your best strategy. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-308",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 309,
+  "date": "2027-08-23",
+  "block": "7. Financial machine learning",
+  "item": "AFML Ch.18-19: Entropy features and microstructural features",
+  "link": "https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086",
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-309",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 310,
+  "date": "2027-08-24",
+  "block": "7. Financial machine learning",
+  "item": "Enhancing Time Series Momentum Strategies Using Deep Neural Networks (Lim et al., 2019)",
+  "link": "https://arxiv.org/abs/1904.04912",
+  "arxiv_id": "1904.04912",
+  "arxiv_title": "Enhancing Time Series Momentum Strategies Using Deep Neural Networks",
+  "lesson": "day-310",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 311,
+  "date": "2027-08-25",
+  "block": "7. Financial machine learning",
+  "item": "Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (Wood et al., 2021)",
+  "link": "https://arxiv.org/abs/2112.08534",
+  "arxiv_id": "2112.08534",
+  "arxiv_title": "Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture",
+  "lesson": "day-311",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 312,
+  "date": "2027-08-26",
+  "block": "7. Financial machine learning",
+  "item": "Are Transformers Effective for Time Series Forecasting? (Zeng et al., 2022)",
+  "link": "https://arxiv.org/abs/2205.13504",
+  "arxiv_id": "2205.13504",
+  "arxiv_title": "Are Transformers Effective for Time Series Forecasting?",
+  "lesson": "day-312",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 313,
+  "date": "2027-08-27",
+  "block": "7. Financial machine learning",
+  "item": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers (Nie et al., 2022)",
+  "link": "https://arxiv.org/abs/2211.14730",
+  "arxiv_id": "2211.14730",
+  "arxiv_title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+  "lesson": "day-313",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 314,
+  "date": "2027-08-28",
+  "block": "7. Financial machine learning",
+  "item": "Chronos: Learning the Language of Time Series (Ansari et al., 2024)",
+  "link": "https://arxiv.org/abs/2403.07815",
+  "arxiv_id": "2403.07815",
+  "arxiv_title": "Chronos: Learning the Language of Time Series",
+  "lesson": "day-314",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 315,
+  "date": "2027-08-29",
+  "block": "7. Financial machine learning",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Block 7 checkpoint: re-read your weakest 3 notes. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-315",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 316,
+  "date": "2027-08-30",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Training language models to follow instructions with human feedback (Ouyang et al., 2022)",
+  "link": "https://arxiv.org/abs/2203.02155",
+  "arxiv_id": "2203.02155",
+  "arxiv_title": "Training language models to follow instructions with human feedback",
+  "lesson": "day-316",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 317,
+  "date": "2027-08-31",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (Wei et al., 2022)",
+  "link": "https://arxiv.org/abs/2201.11903",
+  "arxiv_id": "2201.11903",
+  "arxiv_title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+  "lesson": "day-317",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 318,
+  "date": "2027-09-01",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Large Language Models are Zero-Shot Reasoners (Kojima et al., 2022)",
+  "link": "https://arxiv.org/abs/2205.11916",
+  "arxiv_id": "2205.11916",
+  "arxiv_title": "Large Language Models are Zero-Shot Reasoners",
+  "lesson": "day-318",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 319,
+  "date": "2027-09-02",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Self-Consistency Improves Chain of Thought Reasoning in Language Models (Wang et al., 2022)",
+  "link": "https://arxiv.org/abs/2203.11171",
+  "arxiv_id": "2203.11171",
+  "arxiv_title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+  "lesson": "day-319",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 320,
+  "date": "2027-09-03",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (Zhou et al., 2022)",
+  "link": "https://arxiv.org/abs/2205.10625",
+  "arxiv_id": "2205.10625",
+  "arxiv_title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+  "lesson": "day-320",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 321,
+  "date": "2027-09-04",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "PAL: Program-aided Language Models (Gao et al., 2022)",
+  "link": "https://arxiv.org/abs/2211.10435",
+  "arxiv_id": "2211.10435",
+  "arxiv_title": "PAL: Program-aided Language Models",
+  "lesson": "day-321",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 322,
+  "date": "2027-09-05",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Build a tiny ReAct agent that calls a price tool and a calculator. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-322",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 323,
+  "date": "2027-09-06",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Yao et al., 2023)",
+  "link": "https://arxiv.org/abs/2305.10601",
+  "arxiv_id": "2305.10601",
+  "arxiv_title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+  "lesson": "day-323",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 324,
+  "date": "2027-09-07",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020)",
+  "link": "https://arxiv.org/abs/2005.11401",
+  "arxiv_id": "2005.11401",
+  "arxiv_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "lesson": "day-324",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 325,
+  "date": "2027-09-08",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Dense Passage Retrieval for Open-Domain Question Answering (Karpukhin et al., 2020)",
+  "link": "https://arxiv.org/abs/2004.04906",
+  "arxiv_id": "2004.04906",
+  "arxiv_title": "Dense Passage Retrieval for Open-Domain Question Answering",
+  "lesson": "day-325",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 326,
+  "date": "2027-09-09",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Lost in the Middle: How Language Models Use Long Contexts (Liu et al., 2023)",
+  "link": "https://arxiv.org/abs/2307.03172",
+  "arxiv_id": "2307.03172",
+  "arxiv_title": "Lost in the Middle: How Language Models Use Long Contexts",
+  "lesson": "day-326",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 327,
+  "date": "2027-09-10",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection (Asai et al., 2023)",
+  "link": "https://arxiv.org/abs/2310.11511",
+  "arxiv_id": "2310.11511",
+  "arxiv_title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "lesson": "day-327",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 328,
+  "date": "2027-09-11",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Retrieval-Augmented Generation for Large Language Models: A Survey (Gao et al., 2023)",
+  "link": "https://arxiv.org/abs/2312.10997",
+  "arxiv_id": "2312.10997",
+  "arxiv_title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+  "lesson": "day-328",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 329,
+  "date": "2027-09-12",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Build a mini RAG over your own year of notes. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-329",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 330,
+  "date": "2027-09-13",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning (Karpas et al., 2022)",
+  "link": "https://arxiv.org/abs/2205.00445",
+  "arxiv_id": "2205.00445",
+  "arxiv_title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+  "lesson": "day-330",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 331,
+  "date": "2027-09-14",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., 2022)",
+  "link": "https://arxiv.org/abs/2210.03629",
+  "arxiv_id": "2210.03629",
+  "arxiv_title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "lesson": "day-331",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 332,
+  "date": "2027-09-15",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Toolformer: Language Models Can Teach Themselves to Use Tools (Schick et al., 2023)",
+  "link": "https://arxiv.org/abs/2302.04761",
+  "arxiv_id": "2302.04761",
+  "arxiv_title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+  "lesson": "day-332",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 333,
+  "date": "2027-09-16",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Gorilla: Large Language Model Connected with Massive APIs (Patil et al., 2023)",
+  "link": "https://arxiv.org/abs/2305.15334",
+  "arxiv_id": "2305.15334",
+  "arxiv_title": "Gorilla: Large Language Model Connected with Massive APIs",
+  "lesson": "day-333",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 334,
+  "date": "2027-09-17",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Reflexion: Language Agents with Verbal Reinforcement Learning (Shinn et al., 2023)",
+  "link": "https://arxiv.org/abs/2303.11366",
+  "arxiv_id": "2303.11366",
+  "arxiv_title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+  "lesson": "day-334",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 335,
+  "date": "2027-09-18",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Generative Agents: Interactive Simulacra of Human Behavior (Park et al., 2023)",
+  "link": "https://arxiv.org/abs/2304.03442",
+  "arxiv_id": "2304.03442",
+  "arxiv_title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "lesson": "day-335",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 336,
+  "date": "2027-09-19",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Red-team your agent with a prompt-injection test. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-336",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 337,
+  "date": "2027-09-20",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (Wu et al., 2023)",
+  "link": "https://arxiv.org/abs/2308.08155",
+  "arxiv_id": "2308.08155",
+  "arxiv_title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+  "lesson": "day-337",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 338,
+  "date": "2027-09-21",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "A Survey on Large Language Model based Autonomous Agents (Wang et al., 2023)",
+  "link": "https://arxiv.org/abs/2308.11432",
+  "arxiv_id": "2308.11432",
+  "arxiv_title": "A Survey on Large Language Model based Autonomous Agents",
+  "lesson": "day-338",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 339,
+  "date": "2027-09-22",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering (Yang et al., 2024)",
+  "link": "https://arxiv.org/abs/2405.15793",
+  "arxiv_id": "2405.15793",
+  "arxiv_title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+  "lesson": "day-339",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 340,
+  "date": "2027-09-23",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Chain-of-Verification Reduces Hallucination in Large Language Models (Dhuliawala et al., 2023)",
+  "link": "https://arxiv.org/abs/2309.11495",
+  "arxiv_id": "2309.11495",
+  "arxiv_title": "Chain-of-Verification Reduces Hallucination in Large Language Models",
+  "lesson": "day-340",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 341,
+  "date": "2027-09-24",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions (Huang et al., 2023)",
+  "link": "https://arxiv.org/abs/2311.05232",
+  "arxiv_id": "2311.05232",
+  "arxiv_title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+  "lesson": "day-341",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 342,
+  "date": "2027-09-25",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection (Greshake et al., 2023)",
+  "link": "https://arxiv.org/abs/2302.12173",
+  "arxiv_id": "2302.12173",
+  "arxiv_title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+  "lesson": "day-342",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 343,
+  "date": "2027-09-26",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Have an LLM summarize Liquid Bot logs; check every number. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-343",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 344,
+  "date": "2027-09-27",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena (Zheng et al., 2023)",
+  "link": "https://arxiv.org/abs/2306.05685",
+  "arxiv_id": "2306.05685",
+  "arxiv_title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+  "lesson": "day-344",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 345,
+  "date": "2027-09-28",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model (Rafailov et al., 2023)",
+  "link": "https://arxiv.org/abs/2305.18290",
+  "arxiv_id": "2305.18290",
+  "arxiv_title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+  "lesson": "day-345",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 346,
+  "date": "2027-09-29",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (DeepSeek-AI, 2025)",
+  "link": "https://arxiv.org/abs/2501.12948",
+  "arxiv_id": "2501.12948",
+  "arxiv_title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+  "lesson": "day-346",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 347,
+  "date": "2027-09-30",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "FinBERT: Financial Sentiment Analysis with Pre-trained Language Models (Araci, 2019)",
+  "link": "https://arxiv.org/abs/1908.10063",
+  "arxiv_id": "1908.10063",
+  "arxiv_title": "FinBERT: Financial Sentiment Analysis with Pre-trained Language Models",
+  "lesson": "day-347",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 348,
+  "date": "2027-10-01",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "BloombergGPT: A Large Language Model for Finance (Wu et al., 2023)",
+  "link": "https://arxiv.org/abs/2303.17564",
+  "arxiv_id": "2303.17564",
+  "arxiv_title": "BloombergGPT: A Large Language Model for Finance",
+  "lesson": "day-348",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 349,
+  "date": "2027-10-02",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "FinGPT: Open-Source Financial Large Language Models (Yang et al., 2023)",
+  "link": "https://arxiv.org/abs/2306.06031",
+  "arxiv_id": "2306.06031",
+  "arxiv_title": "FinGPT: Open-Source Financial Large Language Models",
+  "lesson": "day-349",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 350,
+  "date": "2027-10-03",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Draft the capstone design doc. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-350",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 351,
+  "date": "2027-10-04",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models (Lopez-Lira & Tang, 2023)",
+  "link": "https://arxiv.org/abs/2304.07619",
+  "arxiv_id": "2304.07619",
+  "arxiv_title": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
+  "lesson": "day-351",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 352,
+  "date": "2027-10-05",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Large Language Models in Finance: A Survey (Li et al., 2023)",
+  "link": "https://arxiv.org/abs/2311.10723",
+  "arxiv_id": "2311.10723",
+  "arxiv_title": "Large Language Models in Finance: A Survey",
+  "lesson": "day-352",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 353,
+  "date": "2027-10-06",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Large Language Model Agent in Financial Trading: A Survey (Ding et al., 2024)",
+  "link": "https://arxiv.org/abs/2408.06361",
+  "arxiv_id": "2408.06361",
+  "arxiv_title": "Large Language Model Agent in Financial Trading: A Survey",
+  "lesson": "day-353",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 354,
+  "date": "2027-10-07",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design (Yu et al., 2023)",
+  "link": "https://arxiv.org/abs/2311.13743",
+  "arxiv_id": "2311.13743",
+  "arxiv_title": "FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design",
+  "lesson": "day-354",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 355,
+  "date": "2027-10-08",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist (Zhang et al., 2024)",
+  "link": "https://arxiv.org/abs/2402.18485",
+  "arxiv_id": "2402.18485",
+  "arxiv_title": "A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist",
+  "lesson": "day-355",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 356,
+  "date": "2027-10-09",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "TradingAgents: Multi-Agents LLM Financial Trading Framework (Xiao et al., 2024)",
+  "link": "https://arxiv.org/abs/2412.20138",
+  "arxiv_id": "2412.20138",
+  "arxiv_title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "lesson": "day-356",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 357,
+  "date": "2027-10-10",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Run a capstone dry-run presentation. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-357",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 358,
+  "date": "2027-10-11",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading (Li et al., 2024)",
+  "link": "https://arxiv.org/abs/2407.09546",
+  "arxiv_id": "2407.09546",
+  "arxiv_title": "A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading",
+  "lesson": "day-358",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 359,
+  "date": "2027-10-12",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment (Wang et al., 2023)",
+  "link": "https://arxiv.org/abs/2308.00016",
+  "arxiv_id": "2308.00016",
+  "arxiv_title": "Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment",
+  "lesson": "day-359",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 360,
+  "date": "2027-10-13",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets (Barton et al., 2026)",
+  "link": "https://arxiv.org/abs/2609.05663",
+  "arxiv_id": "2609.05663",
+  "arxiv_title": "What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets",
+  "lesson": "day-360",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 361,
+  "date": "2027-10-14",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Capstone 1: write a one-page design doc for the Liquid Bot upgrade",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-361",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 362,
+  "date": "2027-10-15",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Capstone 2: build it and backtest with purged CV and a deflated Sharpe ratio",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-362",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 363,
+  "date": "2027-10-16",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Capstone 3: paper-trade or testnet run with hard risk limits",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-363",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 364,
+  "date": "2027-10-17",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Sunday review: re-read this week's six notes, then exercise: Year-end reflection: compare your Day 1 notes to today. Build one idea into Liquid Bot.",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-364",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ },
+ {
+  "day": 365,
+  "date": "2027-10-18",
+  "block": "8. LLMs and agents, plus the Liquid Bot capstone",
+  "item": "Capstone 4: write up and present your results to an AI engineer or quant",
+  "link": null,
+  "arxiv_id": null,
+  "arxiv_title": null,
+  "lesson": "day-365",
+  "ready": false,
+  "extras": [
+   "dkh"
+  ]
+ }
+]

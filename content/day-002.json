@@ -1,0 +1,44 @@
+{
+ "id": "day-002",
+ "track": "today",
+ "title": "Combos, span and basis",
+ "subtitle": "Study plan · Day 2",
+ "source": null,
+ "sections": [
+  {
+   "title": "Linear combinations",
+   "visual": "span",
+   "beats": [
+    "A linear combination means scale some vectors, then add them.",
+    "With î = [1,0] and ĵ = [0,1], any point is a·î + b·ĵ.",
+    "The span is every point you can reach that way."
+   ],
+   "example": "Two ingredients in different amounts make a whole range of drinks.",
+   "sayback": "Define span in your own words.",
+   "quiz": [
+    {
+     "q": "Span of [1,0] and [0,1]?",
+     "a": "The whole flat plane."
+    }
+   ]
+  },
+  {
+   "title": "Basis",
+   "visual": "span",
+   "beats": [
+    "A basis is a minimum set of vectors whose span covers the space.",
+    "If one vector is just a stretch of another, it adds nothing new. That's linear dependence.",
+    "Two independent arrows span a plane. Three can span 3D space."
+   ],
+   "example": "BTC and 'BTC ×2 leverage' are dependent. They point the same way.",
+   "sayback": "Why does a dependent vector add nothing?",
+   "quiz": [
+    {
+     "q": "Are [1,2] and [2,4] independent?",
+     "a": "No. One is 2× the other."
+    }
+   ],
+   "tieback": "Quant link: highly correlated assets ≈ dependent vectors, so they give little diversification."
+  }
+ ]
+}

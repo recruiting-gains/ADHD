@@ -1,0 +1,42 @@
+{
+ "id": "day-004",
+ "track": "today",
+ "title": "Matrix multiplication = doing two moves",
+ "subtitle": "Study plan · Day 4",
+ "source": null,
+ "sections": [
+  {
+   "title": "Composition",
+   "visual": "compose",
+   "beats": [
+    "Multiplying two matrices = doing one move, then the other.",
+    "Read right to left: in AB, B happens first.",
+    "Order matters. Rotate-then-shear ≠ shear-then-rotate."
+   ],
+   "example": "Putting on socks then shoes is not the same as shoes then socks.",
+   "sayback": "Explain why AB ≠ BA in general.",
+   "quiz": [
+    {
+     "q": "In ABv, which acts on v first?",
+     "a": "B"
+    }
+   ]
+  },
+  {
+   "title": "Computing it",
+   "visual": "compose",
+   "beats": [
+    "Column 1 of AB = A times column 1 of B. Same for column 2.",
+    "Worked: A=[[0,−1],[1,0]] (rotate), B=[[2,0],[0,1]] (stretch x). AB's columns: A·[2,0]=[0,2], A·[0,1]=[−1,0]."
+   ],
+   "example": "A 2-layer network without activations collapses into one matrix. That's why activations matter.",
+   "sayback": "Say back the column rule.",
+   "quiz": [
+    {
+     "q": "Why do deep nets need nonlinear activations?",
+     "a": "Without them, stacked layers multiply into one single matrix."
+    }
+   ]
+  }
+ ]
+}

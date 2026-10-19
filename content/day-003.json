@@ -1,0 +1,43 @@
+{
+ "id": "day-003",
+ "track": "today",
+ "title": "Matrices as transformations",
+ "subtitle": "Study plan · Day 3",
+ "source": null,
+ "sections": [
+  {
+   "title": "A matrix moves space",
+   "visual": "transform",
+   "beats": [
+    "A linear transformation stretches, rotates or shears space. Grid lines stay straight and evenly spaced.",
+    "You only need to know where î and ĵ land.",
+    "Write those landing spots as columns. That grid of numbers is the matrix."
+   ],
+   "example": "Photo-editing 'rotate' and 'skew' are matrices.",
+   "sayback": "Why do just two landing spots describe the whole move?",
+   "quiz": [
+    {
+     "q": "Matrix [[0,−1],[1,0]] does what?",
+     "a": "Rotates 90° counter-clockwise."
+    }
+   ]
+  },
+  {
+   "title": "Matrix × vector",
+   "visual": "transform",
+   "beats": [
+    "To move [x, y]: take x of column 1 plus y of column 2.",
+    "Worked: [[2,0],[0,3]] · [1,1] = 1·[2,0] + 1·[0,3] = [2,3]."
+   ],
+   "example": "Scaling width ×2 and height ×3.",
+   "sayback": "Do one by hand and explain each step.",
+   "quiz": [
+    {
+     "q": "[[1,1],[0,1]] · [2,3]?",
+     "a": "2·[1,0] + 3·[1,1] = [5,3]"
+    }
+   ],
+   "tieback": "Neural nets: each layer is a matrix times a vector, then an activation."
+  }
+ ]
+}

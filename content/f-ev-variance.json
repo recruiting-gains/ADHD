@@ -1,0 +1,51 @@
+{
+ "id": "f-ev-variance",
+ "track": "foundations",
+ "title": "Expected value & variance",
+ "subtitle": "The two numbers behind every trading decision",
+ "source": null,
+ "sections": [
+  {
+   "title": "Expected value",
+   "visual": "bars",
+   "beats": [
+    "Expected value (EV) is the long-run average result if you repeat a bet many times.",
+    "Recipe: multiply each outcome by its chance, then add them up.",
+    "Positive EV means you win over time, even if you lose often.",
+    "Worked: 40% chance to win $30, 60% chance to lose $10. EV = 0.4×30 − 0.6×10 = $6 per bet."
+   ],
+   "example": "A carnival game that costs $2 and pays $10 one time in 10 has EV = $1 − $2 = −$1. The house wins.",
+   "sayback": "Tell someone why a strategy that loses 60% of the time can still make money.",
+   "quiz": [
+    {
+     "q": "Win $20 at 50%, lose $15 at 50%. EV?",
+     "a": "0.5×20 − 0.5×15 = $2.50"
+    },
+    {
+     "q": "EV = 0 means?",
+     "a": "Break even over the long run."
+    }
+   ],
+   "tieback": "Liquid Bot: 'expectancy' on your scorecard is exactly EV per trade."
+  },
+  {
+   "title": "Variance & standard deviation",
+   "visual": "dice",
+   "beats": [
+    "Variance measures how spread out results are around the average.",
+    "Recipe: for each result, take (result − average) squared. Average those.",
+    "Standard deviation is the square root of variance. It's back in dollars, so it's easier to read.",
+    "Worked: results 2, 4, 6. Average 4. Squared gaps 4, 0, 4. Variance = 8/3 ≈ 2.67. SD ≈ 1.63."
+   ],
+   "example": "Two drivers both average 30 min to work. One is always 29–31, one swings 10–50. Same EV, very different variance.",
+   "sayback": "Why can two strategies with the same EV feel totally different?",
+   "quiz": [
+    {
+     "q": "Results 1, 1, 7: average and variance?",
+     "a": "Average 3; gaps² 4, 4, 16; variance 8."
+    }
+   ],
+   "tieback": "Liquid Bot: high variance = deeper drawdowns. That's why you start with small size."
+  }
+ ]
+}

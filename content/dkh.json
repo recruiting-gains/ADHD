@@ -1,0 +1,99 @@
+{
+ "id": "dkh",
+ "track": "papers",
+ "title": "Deep Kernel Hedging",
+ "subtitle": "arXiv 2609.34474 · options hedging with a learned similarity score",
+ "source": "https://arxiv.org/abs/2609.34474",
+ "sections": [
+  {
+   "title": "The big idea",
+   "visual": "kernel",
+   "beats": [
+    "Goal: protect a position in an option by trading the stock underneath it. That protection is called hedging.",
+    "The paper learns a hedging rule from example price paths instead of a textbook formula.",
+    "Key tool: a kernel (a score for how similar two situations are). Similar market moments should get similar hedges.",
+    "Twist: a tiny neural net first squeezes the market data into a better summary. Then a bell-curve kernel compares those summaries. Together that's a deep kernel.",
+    "Result: it hedges better than plain kernels and than deep hedging, mostly when data is scarce."
+   ],
+   "example": "A weather app that says 'today looks like these 5 past days, so bring an umbrella' is using similarity the same way.",
+   "sayback": "Explain to a friend why 'similar situations get similar hedges' is a useful rule.",
+   "quiz": [
+    {
+     "q": "What does a kernel measure?",
+     "a": "How similar two inputs are."
+    },
+    {
+     "q": "What does the neural net add?",
+     "a": "It learns a better summary of the market before the similarity is scored."
+    }
+   ],
+   "tieback": "Liquid Bot tie-in: theme weights are a crude 'similar setups behave alike' rule. A kernel is the math version."
+  },
+  {
+   "title": "The setup: hedging error",
+   "visual": "flow",
+   "beats": [
+    "You owe an option payoff Y at the end. You start with some cash and trade the stock on fixed dates.",
+    "At each date the rule looks only at what you can see now (price, volatility) and says how many shares to hold.",
+    "Self-financing means no money comes in or out. Profit only comes from what you already hold.",
+    "Hedging error = what you owe, minus what your cash grew to, minus your trading gains. Zero means perfect cover.",
+    "Training goal: make the average error small, plus a penalty that keeps the rule smooth."
+   ],
+   "example": "Like budgeting for a bill due in a month: each week you adjust savings so you land right on the amount.",
+   "sayback": "Say in one sentence what the hedging error measures.",
+   "quiz": [
+    {
+     "q": "What does a hedging error of zero mean?",
+     "a": "Your trades exactly covered the payoff you owe."
+    },
+    {
+     "q": "Why add a smoothness penalty?",
+     "a": "So the rule doesn't memorize noise in the training paths."
+    }
+   ]
+  },
+  {
+   "title": "The shortcut: one weight per path",
+   "visual": "gram",
+   "beats": [
+    "Searching over every possible rule is impossible. There are infinitely many.",
+    "A theorem (the representer theorem) proves the best rule is a weighted mix of one building block per training path.",
+    "So you only solve for N numbers, one weight per path.",
+    "The weights come from a table Q: entry (i, j) scores how alike path i's trading is to path j's.",
+    "With squared error there's a one-line formula for the weights."
+   ],
+   "example": "Instead of writing a new recipe from scratch, you blend your 50 tested recipes in the right amounts.",
+   "sayback": "Why does turning 'infinite choices' into 'N weights' matter?",
+   "quiz": [
+    {
+     "q": "What is one entry of Q?",
+     "a": "How similar two training paths' trading patterns are."
+    }
+   ]
+  },
+  {
+   "title": "Making it fast: random waves",
+   "visual": "waves",
+   "beats": [
+    "Problem: Q has N×N entries. With many paths it gets huge and slow.",
+    "Fix: random Fourier features. Approximate the bell-curve kernel with D random cosine waves (D = 100 here).",
+    "Each path becomes a list of 100 numbers. Now you solve for 100 weights, no matter how many paths you have.",
+    "The waves are drawn once and frozen. More waves = closer to the exact answer.",
+    "Training uses mini-batches and the Adam optimizer, like any neural net."
+   ],
+   "example": "Describing a song by the strength of 100 notes instead of comparing it to every other song.",
+   "sayback": "Explain why cost stops exploding as you add more paths.",
+   "quiz": [
+    {
+     "q": "What is D in this paper?",
+     "a": "100 random features."
+    },
+    {
+     "q": "Weights solved for after the swap?",
+     "a": "D (100), not N."
+    }
+   ],
+   "tieback": "Liquid Bot tie-in: same trick lets a similarity model stay fast as your trade log grows."
+  }
+ ]
+}

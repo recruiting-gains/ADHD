@@ -1,0 +1,46 @@
+{
+ "id": "day-005",
+ "track": "today",
+ "title": "Probability basics: counting outcomes",
+ "subtitle": "Study plan · Day 5",
+ "source": null,
+ "sections": [
+  {
+   "title": "Sample space & naive probability",
+   "visual": "dice",
+   "beats": [
+    "Sample space = every possible outcome.",
+    "Event = the outcomes you care about.",
+    "Naive probability = favorable ÷ total. It only works when every outcome is equally likely.",
+    "Worked: one die, P(even) = 3/6 = 1/2."
+   ],
+   "example": "Not every outcome is equally likely: 'will BTC go up tomorrow' isn't 50/50 just because there are two outcomes.",
+   "sayback": "When does favorable ÷ total fail?",
+   "quiz": [
+    {
+     "q": "Two coins: P(both heads)?",
+     "a": "1/4"
+    }
+   ]
+  },
+  {
+   "title": "Counting",
+   "visual": "dice",
+   "beats": [
+    "Multiplication rule: 3 shirts × 4 pants = 12 outfits.",
+    "Order matters (arrangements): n × (n−1) × …",
+    "Order doesn't matter (groups): 'n choose k'.",
+    "Worked: pick 2 of 5 assets to watch: 5×4/2 = 10 pairs."
+   ],
+   "example": "Number of asset pairs to check for correlation grows fast: 20 assets → 190 pairs.",
+   "sayback": "Explain why we divide by 2 for pairs.",
+   "quiz": [
+    {
+     "q": "Choose 3 from 6?",
+     "a": "20"
+    }
+   ],
+   "tieback": "Liquid Bot: more setups tested = more chance one looks great by luck. That's overfitting again."
+  }
+ ]
+}

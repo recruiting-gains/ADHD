@@ -1,0 +1,61 @@
+{
+ "id": "lb-expectancy",
+ "track": "liquidbot",
+ "title": "Expectancy, R and position size",
+ "subtitle": "Read a trading scorecard like a quant",
+ "source": null,
+ "sections": [
+  {
+   "title": "R-multiples",
+   "visual": "stop",
+   "beats": [
+    "R is the amount you risk on a trade: entry to stop.",
+    "Measure every result in R. Made 2× what you risked = +2R. Got stopped = −1R.",
+    "Using R lets you compare a $5 trade to a $50 trade fairly."
+   ],
+   "example": "Risk $10 (stop $1 away, 10 units). Close $2.50 in profit per unit = +$25 = +2.5R.",
+   "sayback": "Explain why measuring in R beats measuring in dollars.",
+   "quiz": [
+    {
+     "q": "Risk $8, make $20. R?",
+     "a": "+2.5R"
+    }
+   ],
+   "tieback": "A sensible go-live gate: positive average R over a decent sample of real trades."
+  },
+  {
+   "title": "Expectancy & profit factor",
+   "visual": "bars",
+   "beats": [
+    "Expectancy = win rate × average win − loss rate × average loss. That's EV per trade.",
+    "Profit factor = total won ÷ total lost. Above 1 means you're net up.",
+    "Worked: 45% wins averaging +2R, 55% losses at −1R. Expectancy = 0.9 − 0.55 = +0.35R per trade."
+   ],
+   "example": "20 trades at +0.35R with $5 risk ≈ +$35 expected.",
+   "sayback": "Say back: why can a 45% win rate be good?",
+   "quiz": [
+    {
+     "q": "Wins total $300, losses total $200. Profit factor?",
+     "a": "1.5"
+    }
+   ]
+  },
+  {
+   "title": "Position size from the stop",
+   "visual": "flow",
+   "beats": [
+    "Pick dollars at risk first. Then size = dollars at risk ÷ distance to stop.",
+    "A wider stop means a smaller position, so the dollar risk stays the same.",
+    "ATR stops: ATR (average true range, typical daily move) sets how far the stop sits. A good risk check rejects stops tighter than some multiple of ATR."
+   ],
+   "example": "Risk $2, ATR $0.40, mult 1.5 → stop $0.60 away → size ≈ 3.3 units.",
+   "sayback": "Explain why the stop decides size, not the other way round.",
+   "quiz": [
+    {
+     "q": "Risk $3, stop $0.50 away. Units?",
+     "a": "6"
+    }
+   ]
+  }
+ ]
+}

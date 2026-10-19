@@ -1,0 +1,62 @@
+{
+ "id": "lb-overfitting",
+ "track": "liquidbot",
+ "title": "Overfitting checks: holdout & walk-forward",
+ "subtitle": "Who checks what, in plain words",
+ "source": null,
+ "sections": [
+  {
+   "title": "What overfitting is",
+   "visual": "holdout",
+   "beats": [
+    "Overfitting = a model memorizes the past instead of learning a real pattern.",
+    "It looks great on old data and falls apart on new data.",
+    "The cure: always judge it on data it never saw while tuning."
+   ],
+   "example": "Memorizing last year's test answers vs actually learning the subject.",
+   "sayback": "Say why a perfect backtest is a warning sign.",
+   "quiz": [
+    {
+     "q": "Main symptom of overfitting?",
+     "a": "Great on training data, bad on new data."
+    }
+   ]
+  },
+  {
+   "title": "Holdout & walk-forward",
+   "visual": "holdout",
+   "beats": [
+    "Holdout: hide the last chunk of data (say 30%). Tune on the rest. Test once on the hidden part.",
+    "Walk-forward: tune on months 1–3, test on 4. Slide: tune 2–4, test 5. Repeat.",
+    "Walk-forward fits trading because markets change over time."
+   ],
+   "example": "A paper-trading phase is a forward test: trades settled on real prices the bot never tuned on.",
+   "sayback": "Explain walk-forward with a calendar.",
+   "quiz": [
+    {
+     "q": "Why test only once on the holdout?",
+     "a": "Each extra peek leaks it into tuning, so it stops being unseen."
+    }
+   ],
+   "tieback": "Idea only: a script could replay closed trades and report scorecard per walk-forward window."
+  },
+  {
+   "title": "The calibration haircut",
+   "visual": "sigmoid",
+   "beats": [
+    "Calibration = when the model says 70%, does it win about 70%?",
+    "A haircut = stated confidence − real hit rate, kept inside safe bounds (e.g., 0 to 0.3).",
+    "Overconfident models get marked down automatically.",
+    "Small samples are noisy. 10 trades can't prove much, so the bounds and 1-step limits matter."
+   ],
+   "example": "Says 80%, wins 60% → haircut 0.2 → future 80% calls treated as 60%.",
+   "sayback": "Why clamp the haircut instead of letting it go anywhere?",
+   "quiz": [
+    {
+     "q": "Says 65%, wins 55%. Haircut?",
+     "a": "0.10"
+    }
+   ]
+  }
+ ]
+}
